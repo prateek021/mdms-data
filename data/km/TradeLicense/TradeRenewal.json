@@ -1,0 +1,9 @@
+{
+    "tenantId": "km",
+    "moduleName": "TradeLicense",
+    "TradeRenewal": [
+        {
+            "renewalPeriod": 7889400000
+        }
+    ]
+}

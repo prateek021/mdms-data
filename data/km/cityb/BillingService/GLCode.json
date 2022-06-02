@@ -1,0 +1,16 @@
+{
+    "tenantId": "km.cityb",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "km.cityb"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "km.cityb"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "tenantId": "km",
+    "moduleName": "Chatbot",
+    "CityLocaleMasterData": [
+        {
+            "cityName": "City A",
+            "locale": "in_en",
+            "tenantId": "km.citya"
+        },
+        {
+            "cityName": "शहर अ",
+            "locale": "in_hi",
+            "tenantId": "km.citya"
+        },
+        {
+            "cityName": "City B",
+            "locale": "in_en",
+            "tenantId": "km.cityb"
+        },
+        {
+            "cityName": "शहर ब",
+            "locale": "in_hi",
+            "tenantId": "km.cityb"
+        },
+        {
+            "cityName": "City C",
+            "locale": "in_en",
+            "tenantId": "km.cityc"
+        },
+        {
+            "cityName": "शहर स",
+            "locale": "in_hi",
+            "tenantId": "km.cityc"
+        },
+        {
+            "cityName": "City D",
+            "locale": "in_en",
+            "tenantId": "km.cityd"
+        },
+        {
+            "cityName": "शहर डी",
+            "locale": "in_hi",
+            "tenantId": "km.cityd"
+        },
+        {
+            "cityName": "City E",
+            "locale": "in_en",
+            "tenantId": "km.citye"
+        },
+        {
+            "cityName": "शहर ई",
+            "locale": "in_hi",
+            "tenantId": "km.citye"
+        }
+    ]
+}
