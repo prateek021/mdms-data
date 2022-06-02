@@ -3,10 +3,10 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Demo",
+      "name": "KMC",
       "code": "km",
       "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "bannerUrl": "https://storage.googleapis.com/ekmc-storage/kmc-banner.jpg",
       "logoUrl": "https://storage.googleapis.com/ekmc-storage/kmc-logo.png",
       "logoUrlWhite": "https://storage.googleapis.com/ekmc-storage/kmc-logo.png",
       "statelogo":"https://storage.googleapis.com/ekmc-storage/kmc-logo.png",
