@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "km.citya",
-      "districtCode": "CITYA",
+      "code": "km.kolkata",
+      "districtCode": "kolkata",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
