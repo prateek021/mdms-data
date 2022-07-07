@@ -1,9 +1,9 @@
 {
-    "tenantId": "km.citya",
+    "tenantId": "km.kolkata",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "km.citya",
+        "tenantId": "km.kolkata",
         "reminderInterval": 12345
       },
       {

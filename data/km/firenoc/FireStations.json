@@ -3,8 +3,8 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_CITYA_01",
-      "baseTenantId": "km.citya",
+      "code": "FS_KOLKATA_01",
+      "baseTenantId": "km.kolkata",
       "active": true
     },
     {

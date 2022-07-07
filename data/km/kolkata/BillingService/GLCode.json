@@ -1,16 +1,16 @@
 {
-    "tenantId": "km.citya",
+    "tenantId": "km.kolkata",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "km.citya"
+            "cb": "km.kolkata"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "km.citya"
+            "cb": "km.kolkata"
         }
     ]
 }

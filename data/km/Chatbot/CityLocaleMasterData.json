@@ -5,12 +5,12 @@
         {
             "cityName": "City A",
             "locale": "in_en",
-            "tenantId": "km.citya"
+            "tenantId": "km.kolkata"
         },
         {
             "cityName": "शहर अ",
             "locale": "in_hi",
-            "tenantId": "km.citya"
+            "tenantId": "km.kolkata"
         },
         {
             "cityName": "City B",

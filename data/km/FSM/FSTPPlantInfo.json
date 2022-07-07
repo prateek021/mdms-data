@@ -4,14 +4,14 @@
     "FSTPPlantInfo": [
         {
             "PlantCode": "CTA001",
-            "PlantName": "CityA FSTP",
+            "PlantName": "KOLKATA FSTP",
             "active": true,
             "PlantType": "FSTP",
-            "PlantLocation": "CityA",
+            "PlantLocation": "KOLKATA",
             "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
             "PlantOperationalTimings": "10.00am-08.00pm",
             "PlantOperationalCapacityKLD": "50",
-            "ULBS": "km.citya,pg.cityb,pg.balasore"
+            "ULBS": "km.kolkata,pg.cityb,pg.balasore"
         },
         {
             "PlantCode": "CTC002",
