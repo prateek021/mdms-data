@@ -13324,6 +13324,37 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }  
+    },
+    {
+      "id": 3020,
+     "name": "rainmaker-citizen-parking",
+      "url": "card",
+      "displayName": "Parking",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "parking-citizen/home",
+      "leftIcon": "social:group-add",
+      "rightIcon": "",
+      "queryParams": ""
+   },	   
+   {
+      "id": 3021,
+      "name": "Parking",
+      "url": "url",
+      "displayName": "Parking",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Parking",
+      "code": "null",
+      "navigationURL": "parking-citizen/home",
+      "path": "Parking",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+   } 
    ]
 }
