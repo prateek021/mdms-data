@@ -4,38 +4,48 @@
   "OwnershipType": [
     {
      "name": "State Govt Premises",
-      "code": "GP",
+      "code": "STATEGOVTPREMISES",
       "active": true
 	  
     },
     {
       "name": "Central Govt Premises",
-      "code": "CG",
+      "code": "CENTRALGOVTPREMISES",
 	  "active": true
 	},
 	{
       "name": "Statutory Bodies",
-      "code": "SB",
+      "code": "STATUTORYBODIES",
 	  "active": true
 	},
 	{
       "name": "Thika Premises",
-      "code": "TP",
+      "code": "THIKAPREMISES",
 	  "active": true
 	},
 	{
       "name": "Bustee Premises",
-      "code": "BP",
+      "code": "BUSTEEPREMISES",
 	  "active": true
 	},
 	{
       "name": "Khasmahal Property",
-      "code": "KP",
+      "code": "KHASMAHALPROPERTY",
 	  "active": true
 	},
 	{
       "name": "Private Property",
-      "code": "PP",
+      "code": "PRIVATEPROPERTY",
+	  "active": true
+	},
+	{
+      "name": "Pond",
+      "code": "POND",
+	  "active": true
+	},
+	{
+      "name": "Heritage",
+      "code": "HERITAGE",
 	  "active": true
 	}
 	

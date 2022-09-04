@@ -4,19 +4,13 @@
   "OwnerShipCategory":
   [
     {
-      "name": "Individual(s)",
-      "code": "INDIVIDUAL",
-      "active": true
-    },
-   
-    {
-      "name": "Individual - SingleOwner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
+      "name": "Single Owner",
+      "code": "SINGLEOWNER",
       "active": true
     },
     {
       "name": "Multiple Owners",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "code": "MULTIPLEOWNERS",
       "active": true
     }
   ]
