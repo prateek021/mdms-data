@@ -13400,7 +13400,7 @@
       "leftIcon": "social:group-add",
       "rightIcon": ""
    },
-   {
+    {
       "id": 3026,
       "name": "Parking Area Allocation",
       "url": "url",
@@ -13411,11 +13411,11 @@
       "serviceCode": "Parking",
       "code": "null",
       "navigationURL": "parking-citizen/parkingAreaAllocation",
-      "path": "Parking.Masters.Parking Area Allocation",
+      "path": "Parking.Transcation.Allocation.Parking Area Allocation",
       "leftIcon": "social:group-add",
       "rightIcon": ""
-   },
-   {
+  },
+ {
       "id": 3027,
       "name": "Agent Pos Master",
       "url": "url",
@@ -13426,7 +13426,7 @@
       "serviceCode": "Parking",
       "code": "null",
       "navigationURL": "parking-citizen/agentPosMaster",
-      "path": "Parking.Masters.Agent Pos Master",
+      "path": "Parking.Transcation.Allocation.Agent Pos Master",
       "leftIcon": "social:group-add",
       "rightIcon": ""
    },
