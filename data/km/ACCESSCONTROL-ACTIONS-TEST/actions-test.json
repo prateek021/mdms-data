@@ -13444,6 +13444,20 @@
       "path": "Parking.Masters.Rate Master",
       "leftIcon": "social:group-add",
       "rightIcon": ""
+   },
+   {
+      "id": 3029,
+      "name": "Account",
+      "url": "",
+      "parentModule": "",
+      "displayName": "Account",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.COA.Account.Create",
+      "navigationURL": "/services/EGF/account/new"
    }
    ]
 }
