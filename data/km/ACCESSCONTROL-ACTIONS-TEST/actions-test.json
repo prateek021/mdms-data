@@ -13326,6 +13326,21 @@
       "path": ""
     },
    {
+      "id": 3021,
+      "name": "Contract Info",
+      "url": "url",
+      "displayName": "Contract Info",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Parking",
+      "code": "null",
+      "navigationURL": "parking-citizen/tenderMaster",
+      "path": "Parking.Masters.Contract Info",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+   },
+   {
       "id": 3022,
       "name": "Agency Master",
       "url": "url",
