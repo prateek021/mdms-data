@@ -13458,6 +13458,21 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.COA.Account.Create",
       "navigationURL": "services/EGF/account/new"
+   },
+   {
+      "id": 3035,
+      "name": "Agency Master",
+      "url": "url",
+      "displayName": "Agency Master",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Advertising",
+      "code": "null",
+      "navigationURL": "advertising-citizen/agencyMaster",
+      "path": "Advertising.Masters.Agency Master",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
    }
    ]
 }
