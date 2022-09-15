@@ -13336,7 +13336,7 @@
       "serviceCode": "Parking",
       "code": "null",
       "navigationURL": "parking-citizen/tenderMaster",
-      "path": "Parking.Masters.Contract Info",
+      "path": "Parking.Contract Info",
       "leftIcon": "social:group-add",
       "rightIcon": ""
    },
