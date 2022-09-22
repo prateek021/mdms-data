@@ -13473,6 +13473,21 @@
       "path": "Advertising.Masters.Agency Master",
       "leftIcon": "social:group-add",
       "rightIcon": ""
+   },
+   {
+      "id": 3036,
+      "name": "Contract Info",
+      "url": "url",
+      "displayName": "Contract Info",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Advertising",
+      "code": "null",
+      "navigationURL": "advertising-citizen/contractInfo",
+      "path": "Advertising.Masters.Contract Info",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
    }
    ]
 }
