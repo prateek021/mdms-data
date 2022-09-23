@@ -13488,6 +13488,21 @@
       "path": "Advertising.Masters.Contract Info",
       "leftIcon": "social:group-add",
       "rightIcon": ""
+   },
+   {
+      "id": 3037,
+      "name": "Home",
+      "url": "url",
+      "displayName": "Home",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Grievance",
+      "code": "null",
+      "navigationURL": "grievance-citizen/home",
+      "path": "Grievance.Home",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
    }
    ]
 }
