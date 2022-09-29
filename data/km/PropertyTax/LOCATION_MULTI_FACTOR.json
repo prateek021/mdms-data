@@ -1,0 +1,26 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "LOCATION_MULTI_FACTOR":
+  [
+    {
+      "name": "L1",
+      "code": "0.60",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH LESS THAN OR EQUAL TO 2.5M (8.20ft).",
+      "active": true
+    },
+   
+    {
+      "name": "L2",
+      "code": "0.80",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 2.5M (8.20ft) BUT LESS THEN OR EQUAL TO 3.5M (11.48ft)S",
+      "active": true
+    },
+    {
+      "name": "L3",
+      "code": "1.00",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 3.5M (11.48ft) BUT LESS THEN OR EQUAL TO 12M (39.37ft)",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "OCCUPANCY_MULTI_FACTOR":
+  [
+    {
+      "name": "O1",
+      "code": "4.00",
+	  "description":"PROPERTY (OR PORTION THEREOF) UNDER OCCUPATION OF TENANT(S) OR ANYBODY ELSE OTHER THAN AN OWNER OR HIS/HER FAMILY AS DEFINED BELOW, WHERE THE TENANCY LESS THEN OR EQUAL TO 20 YEARS OLD AND IS USED FOR NON RESIDENTIAL PURPOSE",
+      "active": true
+    },
+   
+    {
+      "name": "O2",
+      "code": "1.50",
+	  "description":"PROPERTY (OR PORTION THEREOF) UNDER OCCUPATION OF TENANT(S) OR ANYBODY ELSE OTHER THAN AN OWNER OR HIS/HER FAMILY AS DEFINED BELOW, WHERE THE TENANCY LESS THEN OR EQUAL TO 20 YEARS OLD AND IS USED FOR RESIDENTIAL PURPOSE",
+      "active": true
+    },
+    {
+      "name": "O3",
+      "code": "4.00",
+	  "description":"FEE/ COMMERCIAL CAR PARKING SPACE/ GARAGE",
+      "active": true
+    }
+  ]
+}
