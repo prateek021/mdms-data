@@ -117,6 +117,46 @@
         "$.code"
       ]
     },
+	"AGE_MULTI_FACTOR": {
+      "masterName": "AGE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"OCCUPANCY_MULTI_FACTOR": {
+      "masterName": "OCCUPANCY_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"LOCATION_MULTI_FACTOR": {
+      "masterName": "LOCATION_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"USAGE_MULTI_FACTOR": {
+      "masterName": "USAGE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"STRUCTURE_MULTI_FACTOR": {
+      "masterName": "STRUCTURE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "OwnerShipCategory": {
       "masterName": "OwnerShipCategory",
       "moduleDefinition": null,
