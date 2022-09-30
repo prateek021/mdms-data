@@ -24967,6 +24967,12 @@
       "actionid": 3038,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }

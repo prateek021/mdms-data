@@ -13503,6 +13503,21 @@
       "path": "Grievance.Home",
       "leftIcon": "social:group-add",
       "rightIcon": ""
+   },
+   {
+      "id": 3040,
+      "name": "Agency Employee Master",
+      "url": "url",
+      "displayName": "Agency Employee Master",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Parking",
+      "code": "null",
+      "navigationURL": "parking-citizen/agencyEmployeeMaster",
+      "path": "Parking.Masters.Agency Employee Master",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
    }
    ]
 }
