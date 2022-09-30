@@ -24949,6 +24949,30 @@
       "actionid": 3035,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3036,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3037,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "PK_FIELD_INSPECTOR",
+      "actionid": 3038,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3040,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }

@@ -646,6 +646,11 @@
       "code": "DEATH_APPLICATION_EDITOR",
       "name": "DEATH Application Editor",
       "description": "Death User that can edit existing applications"
+    },
+    {
+      "code": "PK_FIELD_INSPECTOR",
+      "name": "Parking Field Inspector",
+      "description": "Illegal Parking Field Inspector"
     }
   ]
 }
