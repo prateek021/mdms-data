@@ -1,0 +1,26 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "USAGE_MULTI_FACTOR":
+  [
+    {
+      "name": "U1",
+      "code": "0.50",
+	  "description":"WATER BODY, IRRESPECTIVE OF USAGE",
+      "active": true
+    },
+   
+    {
+      "name": "U2",
+      "code": "1.00",
+	  "description":"PROPERTY UNDER RESIDENTIAL USE",
+      "active": true
+    },
+    {
+      "name": "U3",
+      "code": "1.00",
+	  "description":"CAR PARKING SPACE",
+      "active": true
+    }
+  ]
+}

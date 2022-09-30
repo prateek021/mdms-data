@@ -133,6 +133,127 @@
         "$.code"
       ]
     },
+	"AGE_MULTI_FACTOR": {
+      "masterName": "AGE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"OCCUPANCY_MULTI_FACTOR": {
+      "masterName": "OCCUPANCY_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"LOCATION_MULTI_FACTOR": {
+      "masterName": "LOCATION_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"USAGE_MULTI_FACTOR": {
+      "masterName": "USAGE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"STRUCTURE_MULTI_FACTOR": {
+      "masterName": "STRUCTURE_MULTI_FACTOR",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"buildingType": {
+      "masterName": "buildingType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"PremisesType": {
+      "masterName": "PremisesType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"CommonAreaType": {
+      "masterName": "CommonAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"PlotAreaType": {
+      "masterName": "PlotAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"CoveredAreaType": {
+      "masterName": "CoveredAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"ParkingAreaType": {
+      "masterName": "ParkingAreaType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"street": {
+      "masterName": "street",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"propType": {
+      "masterName": "propType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	
+	"ward": {
+      "masterName": "ward",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"OwnershipType": {
+      "masterName": "OwnershipType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "UOM": {
       "masterName": "UOM",
       "moduleDefinition": null,
