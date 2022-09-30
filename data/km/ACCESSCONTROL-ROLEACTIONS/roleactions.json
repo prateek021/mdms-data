@@ -24961,6 +24961,12 @@
       "actionid": 3037,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "PK_FIELD_INSPECTOR",
+      "actionid": 3038,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }
