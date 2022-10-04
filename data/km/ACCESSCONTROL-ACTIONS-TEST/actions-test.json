@@ -3394,7 +3394,7 @@
          "id": 1593,
          "name": "Financial Expense bill create",
          "navigationURL": "services/EGF/expensebill/newform",
-         "url": "url",
+         "url": "/services/EGF/expensebill/newform",
          "parentModule": "EGF",
          "displayName": "Expense Bill",
          "orderNumber": 1,
