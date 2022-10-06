@@ -13518,50 +13518,6 @@
       "path": "Parking.Masters.Agency Employee Master",
       "leftIcon": "social:group-add",
       "rightIcon": ""
-   },
-   
-   {
-         "id": 3041,
-         "name": "Assessee Create",
-         "url": "url",
-         "displayName": "Assessee Create",
-         "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
-         "path": "Property Tax.Assessee Manitenance.Assessee Create",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AssesseeCreate",
-		 
-      },
-	   
-   {
-         "id": 3042,
-         "name": "Asessee Update",
-         "url": "url",
-         "displayName": "Asessee Update",
-         "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
-         "path": "Property Tax.Assessee Manitenance.Asessee Update",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeUpdate",
-		 
-      },
-	  {
-         "id": 3043,
-         "name": "Asessee Search",
-         "url": "url",
-         "displayName": "Asessee Search",
-         "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
-         "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeSearch",
-		 
-      }
+   }
    ]
 }
