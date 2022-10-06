@@ -990,7 +990,7 @@
          "displayName": "Create Budget Group",
          "orderNumber": 1,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.createBudgetGroup_Master"
@@ -1002,7 +1002,7 @@
          "displayName": "Modify Budget Group",
          "orderNumber": 2,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.updateBudgetGroup_Master"
@@ -1014,7 +1014,7 @@
          "displayName": "Search Budget Group",
          "orderNumber": 3,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.searchBudgetGroup_Master"
@@ -1026,7 +1026,7 @@
          "displayName": "Create Scheme",
          "orderNumber": 1,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.createScheme_Master"
@@ -1038,7 +1038,7 @@
          "displayName": "Modify Scheme",
          "orderNumber": 2,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.updateScheme_Master"
@@ -1050,7 +1050,7 @@
          "displayName": "Search Scheme",
          "orderNumber": 3,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.searchScheme_Master"
@@ -1062,7 +1062,7 @@
          "displayName": "Create BankBranch",
          "orderNumber": 1,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.createBankBranch_Master"
@@ -1074,7 +1074,7 @@
          "displayName": "Modify BankBranch",
          "orderNumber": 2,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.updateBankBranch_Master"
@@ -1086,7 +1086,7 @@
          "displayName": "Search BankBranch",
          "orderNumber": 3,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.searchBankBranch_Master"
@@ -1098,7 +1098,7 @@
          "displayName": "Create Fund Source",
          "orderNumber": 1,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
@@ -1110,7 +1110,7 @@
          "displayName": "Modify Fund Source",
          "orderNumber": 2,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
@@ -1122,7 +1122,7 @@
          "displayName": "Search Fund Source",
          "orderNumber": 3,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
