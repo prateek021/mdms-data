@@ -13673,6 +13673,272 @@
          "path": "Property Tax.UAA.UAA SAF Cancellation",
          "navigationURL": "mdms/PropertyTax/UAA/UAASAFCancellation"
 		 
+      },
+      {
+         "id": 3052,
+         "name": "Inspector Subcharge",
+         "url": "url",
+         "displayName": "Inspector Subcharge",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Inspector Subcharge",
+         "navigationURL": "mdms/PropertyTax/Inspection/InspectorSubcharge"
+		 
+      },
+      {
+         "id": 3053,
+         "name": "Send notice to Assessee",
+         "url": "url",
+         "displayName": "Send notice to Assessee",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Send notice to Assessee",
+         "navigationURL": "mdms/PropertyTax/Inspection/SendNoticeToAssessee"
+		 
+      },
+      {
+         "id": 3054,
+         "name": "Capture Proposed AV",
+         "url": "url",
+         "displayName": "Capture Proposed AV",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Capture Proposed AV",
+         "navigationURL": "mdms/PropertyTax/Inspection/CaptureProposedAV"
+		 
+      },
+      {
+         "id": 3055,
+         "name": "Search Proposed AV",
+         "url": "url",
+         "displayName": "Search Proposed AV",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Search Proposed AV",
+         "navigationURL": "mdms/PropertyTax/Inspection/SearchProposedAV"
+		 
+      },
+      {
+         "id": 3056,
+         "name": "Tax Inspector and Ward Mapping",
+         "url": "url",
+         "displayName": "Tax Inspector and Ward Mapping",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Tax Inspector and Ward Mapping",
+         "navigationURL": "mdms/PropertyTax/Inspection/TaxInspectorAndWardMapping"
+		 
+      },
+      {
+         "id": 3057,
+         "name": "Hearing Notice Entry",
+         "url": "url",
+         "displayName": "Hearing Notice Entry",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Hearing Notice Entry",
+         "navigationURL": "mdms/PropertyTax/Hearing/HearingNoticeEntry"
+		 
+      },
+      {
+         "id": 3058,
+         "name": "Hearing Notice Search",
+         "url": "url",
+         "displayName": "Hearing Notice Search",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Hearing Notice Search",
+         "navigationURL": "mdms/PropertyTax/Hearing/HearingNoticeSearch"
+		 
+      },
+      {
+         "id": 3059,
+         "name": "Rate Card Entry",
+         "url": "url",
+         "displayName": "Rate Card Entry",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Rate Card Entry",
+         "navigationURL": "mdms/PropertyTax/Hearing/RateCardEntry"
+		 
+      },
+      {
+         "id": 3060,
+         "name": "Rate Card Cancellation",
+         "url": "url",
+         "displayName": "Rate Card Cancellation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Rate Card Cancellation",
+         "navigationURL": "mdms/PropertyTax/Hearing/RateCardCancellation"
+		 
+      },
+      {
+         "id": 3061,
+         "name": "FS Bill Generation",
+         "url": "url",
+         "displayName": "FS Bill Generation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.FS Bill Generation",
+         "navigationURL": "mdms/PropertyTax/Hearing/FSBillGeneration"
+		 
+      },
+      {
+         "id": 3062,
+         "name": "FS Bill Cancellation",
+         "url": "url",
+         "displayName": "FS Bill Cancellation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.FS Bill Cancellation",
+         "navigationURL": "mdms/PropertyTax/Hearing/FSBillCancellation"
+		 
+      },
+      {
+         "id": 3063,
+         "name": "Rate Card Reprint",
+         "url": "url",
+         "displayName": "Rate Card Reprint",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Rate Card Reprint",
+         "navigationURL": "mdms/PropertyTax/Hearing/RateCardReprint"
+		 
+      },
+      {
+         "id": 3064,
+         "name": "FS Bill Reprint",
+         "url": "url",
+         "displayName": "FS Bill Reprint",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.FS Bill Reprint",
+         "navigationURL": "mdms/PropertyTax/Hearing/FSBillReprint"
+		 
+      },
+      {
+         "id": 3065,
+         "name": "Case Entry",
+         "url": "url",
+         "displayName": "Case Entry",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Case Entry",
+         "navigationURL": "mdms/PropertyTax/Mutation/CaseEntry"
+		 
+      },
+      {
+         "id": 3066,
+         "name": "Case Search",
+         "url": "url",
+         "displayName": "Case Search",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Case Search",
+         "navigationURL": "mdms/PropertyTax/Mutation/Case Search"
+		 
+      },
+      {
+         "id": 3067,
+         "name": "Inspection Sheet Entry",
+         "url": "url",
+         "displayName": "Inspection Sheet Entry",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Inspection Sheet Entry",
+         "navigationURL": "mdms/PropertyTax/Mutation/InspectionSheetEntry"
+		 
+      },
+      {
+         "id": 3068,
+         "name": "Awaiting Approval Search",
+         "url": "url",
+         "displayName": "Awaiting Approval Search",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Awaiting Approval Search",
+         "navigationURL": "mdms/PropertyTax/Mutation/AwaitingApprovalSearch"
+		 
+      },
+      {
+         "id": 3069,
+         "name": "Liability Transfer",
+         "url": "url",
+         "displayName": "Liability Transfer",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Liability Transfer",
+         "navigationURL": "mdms/PropertyTax/Mutation/LiabilityTransfer"
+		 
+      },
+      {
+         "id": 3070,
+         "name": "Cancel Mutation",
+         "url": "url",
+         "displayName": "Cancel Mutation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Cancel Mutation",
+         "navigationURL": "mdms/PropertyTax/Mutation/CancelMutation"
+		 
       }
    ]
 }
