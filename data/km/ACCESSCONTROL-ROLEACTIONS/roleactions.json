@@ -24973,6 +24973,24 @@
       "actionid": 3040,
       "actioncode": "",
       "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3042,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 3043,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }
