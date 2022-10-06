@@ -24991,6 +24991,54 @@
       "actionid": 3043,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3044,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3045,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3046,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3047,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3048,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3049,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3050,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3051,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }

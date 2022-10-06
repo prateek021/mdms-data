@@ -13561,6 +13561,118 @@
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
          "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeSearch"
 		 
+      },
+      {
+         "id": 3044,
+         "name": "Self Assessment Entry",
+         "url": "url",
+         "displayName": "Self Assessment Entry",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.Self Assessment Entry",
+         "navigationURL": "mdms/PropertyTax/UAA/SelfAssessmentEntry"
+		 
+      },
+      {
+         "id": 3045,
+         "name": "Fetch and Update SAF",
+         "url": "url",
+         "displayName": "Fetch and Update SAF",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.Fetch and Update SAF",
+         "navigationURL": "mdms/PropertyTax/UAA/FetchAndUpdateSAF"
+		 
+      },
+      {
+         "id": 3046,
+         "name": "Fetch and View SAF",
+         "url": "url",
+         "displayName": "Fetch and View SAF",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.Fetch and View SAF",
+         "navigationURL": "mdms/PropertyTax/UAA/FetchAndViewSAF"
+		 
+      },
+      {
+         "id": 3047,
+         "name": "UAA Accept Object Inspector Changes",
+         "url": "url",
+         "displayName": "UAA Accept Object Inspector Changes",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.UAA Accept Object Inspector Changes",
+         "navigationURL": "mdms/PropertyTax/UAA/UAAAcceptObjectInspectorChanges"
+		 
+      },
+      {
+         "id": 3048,
+         "name": "UAA Mobile/ID Updation for Suo-Moto SAF",
+         "url": "url",
+         "displayName": "UAA Mobile/ID Updation for Suo-Moto SAF",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.UAA Mobile/ID Updation for Suo-Moto SAF",
+         "navigationURL": "mdms/PropertyTax/UAA/UAAMobile/IDUpdationForSuoMotoSAF"
+		 
+      },
+      {
+         "id": 3049,
+         "name": "UAA SAF FS Bill Generation",
+         "url": "url",
+         "displayName": "UAA SAF FS Bill Generation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.UAA SAF FS Bill Generation",
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFFSBillGeneration"
+		 
+      },
+      {
+         "id": 3050,
+         "name": "UAA SAF Reversal",
+         "url": "url",
+         "displayName": "UAA SAF Reversal",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.UAA SAF Reversal",
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFReversal"
+		 
+      },
+      {
+         "id": 3051,
+         "name": "UAA SAF Cancellation",
+         "url": "url",
+         "displayName": "UAA SAF Cancellation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.UAA.UAA SAF Cancellation",
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFCancellation"
+		 
       }
    ]
 }
