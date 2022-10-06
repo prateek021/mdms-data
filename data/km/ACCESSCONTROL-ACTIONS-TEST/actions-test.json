@@ -13531,7 +13531,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Assessee Create",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AssesseeCreate",
+         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AssesseeCreate"
 		 
       },
 	   
@@ -13546,7 +13546,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Update",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeUpdate",
+         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeUpdate"
 		 
       },
 	  {
@@ -13560,7 +13560,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeSearch",
+         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeSearch"
 		 
       }
    ]
