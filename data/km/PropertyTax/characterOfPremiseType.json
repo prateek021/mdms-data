@@ -1,0 +1,38 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "characterOfPremiseType": [
+    {
+     "name": "Vacant Land",
+      "code": "Vacant Land",
+      "active": true
+	  
+    },
+    {
+      "name": "Water Body",
+      "code": "Water Body",
+	  "active": true
+	},
+	{
+      "name": "Khatal",
+      "code": "Khatal",
+	  "active": true
+	},
+	{
+      "name": "Land With Tank",
+      "code": "Land With Tank",
+	  "active": true
+	},
+	{
+      "name": "Constructed Building",
+      "code": "Constructed Building",
+	  "active": true
+	},
+	{
+      "name": "Under Construction",
+      "code": "Under Construction",
+	  "active": true
+	}
+	
+  ]
+}

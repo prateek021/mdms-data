@@ -4,38 +4,38 @@
   "PremisesType": [
     {
      "name": "State Government",
-      "code": "S",
+      "code": "State Government",
       "active": true
 	  
     },
     {
       "name": "Central Government",
-      "code": "C",
+      "code": "Central Government",
 	  "active": true
 	},
 	{
       "name": "Kolkata Proper",
-      "code": "K",
+      "code": "Kolkata Proper",
 	  "active": true
 	},
 	{
       "name": "Bustee",
-      "code": "B",
+      "code": "Bustee",
 	  "active": true
 	},
 	{
       "name": "Multi Storeyed Building",
-      "code": "M",
+      "code": "Multi Storeyed Building",
 	  "active": true
 	},
 	{
       "name": "Kolkata Port Trust",
-      "code": "KP",
+      "code": "Kolkata Port Trust",
 	  "active": true
 	},
 	{
       "name": "Colony",
-      "code": "KP",
+      "code": "Colony",
 	  "active": true
 	}
 	
