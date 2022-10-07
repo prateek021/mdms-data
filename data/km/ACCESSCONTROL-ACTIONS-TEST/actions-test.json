@@ -3589,7 +3589,7 @@
       {
          "id": 1623,
          "name": "Recovery-Create",
-         "url": "url",
+         "url": "/services/EGF/recovery/new",
          "parentModule": "",
          "displayName": "Create Deductions",
          "orderNumber": 1,
@@ -3603,7 +3603,7 @@
       {
          "id": 1624,
          "name": "View Recoveries-Search",
-         "url": "url",
+         "url": "/services/EGF/recovery/search/view",
          "parentModule": "",
          "displayName": "View Deductions",
          "orderNumber": 2,
@@ -3617,7 +3617,7 @@
       {
          "id": 1625,
          "name": "Modify Recoveries-Search",
-         "url": "url",
+         "url": "/services/EGF/recovery/search/edit",
          "parentModule": "",
          "displayName": "Modify Deductions",
          "orderNumber": 3,
@@ -3631,7 +3631,7 @@
       {
          "id": 1626,
          "name": "View Sub-schemes - Search",
-         "url": "url",
+         "url": "/services/EGF/masters/subScheme-beforeSearch.action",
          "parentModule": "",
          "displayName": "View Sub Scheme",
          "orderNumber": 5,
@@ -3645,7 +3645,7 @@
       {
          "id": 1627,
          "name": "Modify Sub-scheme",
-         "url": "url",
+         "url": "/services/EGF/masters/subScheme-beforeSearch-edit.action",
          "parentModule": "",
          "displayName": "Modify Sub Scheme",
          "orderNumber": 6,
@@ -4898,7 +4898,7 @@
       {
          "id": 1721,
          "name": "remittancepayment",
-         "url": "url",
+         "url": "/services/EGF/deduction/remitRecovery-newform.action",
          "displayName": "Deduction Payments",
          "orderNumber": 4,
          "parentModule": "",
@@ -4912,7 +4912,7 @@
       {
          "id": 1722,
          "name": "BankRemittance",
-         "url": "url",
+         "url": "/report/finance/BankRemittance",
          "displayName": "Bank Remittance",
          "orderNumber": 8,
          "enabled": true,
@@ -6365,7 +6365,7 @@
       {
          "id": 1836,
          "name": "remittancertgsassignment",
-         "url": "url",
+         "url": "/services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
          "displayName": "Deductions RTGS Assignment",
          "orderNumber": 5,
          "parentModule": "",
@@ -6380,7 +6380,7 @@
          "id": 1837,
          "name": "Financial Bank Reconcilation",
          "navigationURL": "services/EGF/brs/manualReconciliation-newForm.action",
-         "url": "url",
+         "url": "/services/EGF/brs/manualReconciliation-newForm.action",
          "parentModule": "EGF",
          "displayName": "Reconcile with Bank-Manual",
          "orderNumber": 1,
@@ -6394,7 +6394,7 @@
          "id": 1838,
          "name": "Bank Statement Entries - Not In Bank Book",
          "navigationURL": "services/EGF/payment/bankEntriesNotInBankBook-newform.action",
-         "url": "url",
+         "url": "/services/EGF/payment/bankEntriesNotInBankBook-newform.action",
          "parentModule": "EGF",
          "displayName": "Bank Statement Entries - Not In Bank Book",
          "orderNumber": 1,
