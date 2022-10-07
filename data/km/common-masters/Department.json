@@ -3,47 +3,47 @@
   "moduleName": "common-masters",
   "Department": [
     {
-      "name": "Street Lights",
+      "name": "Municipal Authorities & Administration",
       "code": "DEPT_1",
       "active": true
     },
     {
-      "name": "Building & Roads",
+      "name": "Secretarial Administration",
       "code": "DEPT_2",
       "active": true
     },
     {
-      "name": "Health & Sanitation",
+      "name": "Municipal Finance, Accounts & Budget Management",
       "code": "DEPT_3",
       "active": true
     },
     {
-      "name": "Operation & Maintenance",
+      "name": "Municipal Audit",
       "code": "DEPT_4",
       "active": true
     },
     {
-      "name": "Horticulture",
+      "name": "Information Technology and Systems Management",
       "code": "DEPT_5",
       "active": true
     },
     {
-      "name": "Building Branch",
+      "name": "Law and Legal Service",
       "code": "DEPT_6",
       "active": true
     },
     {
-      "name": "Citizen service desk",
+      "name": "Capacity Building",
       "code": "DEPT_7",
       "active": true
     },
     {
-      "name": "Complaint Cell",
+      "name": "Human Resource - Planning & Management",
       "code": "DEPT_8",
       "active": true
     },
     {
-      "name": "Executive Branch",
+      "name": "Institute of Urban Management",
       "code": "DEPT_9",
       "active": true
     },
