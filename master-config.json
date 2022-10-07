@@ -125,6 +125,14 @@
         "$.code"
       ]
     },
+	"characterOfPremiseType": {
+      "masterName": "characterOfPremiseType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "OwnerType": {
       "masterName": "OwnerType",
       "moduleDefinition": null,

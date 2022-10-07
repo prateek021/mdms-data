@@ -4,23 +4,23 @@
   "buildingType": [
     {
      "name": "Kancha",
-      "code": "K",
+      "code": "Kancha",
       "active": true
 	  
     },
     {
       "name": "Pucca",
-      "code": "P",
+      "code": "Pucca",
 	  "active": true
 	},
 	{
       "name": "Flat",
-      "code": "F",
+      "code": "Flat",
 	  "active": true
 	},
 	{
       "name": "Semi Pucca",
-      "code": "S",
+      "code": "Semi Pucca",
 	  "active": true
 	}
 	
