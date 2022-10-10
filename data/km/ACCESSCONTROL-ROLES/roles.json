@@ -656,6 +656,6 @@
       "code": "PT_TEST_INSPECTOR",
       "name": "PT Test Inspector",
       "description": "Property Test Inspector"
-    },
+    }
   ]
 }
