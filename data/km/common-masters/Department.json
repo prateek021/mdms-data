@@ -5,133 +5,111 @@
     {
       "name": "General Account General Administration Municipal Authorities and Administration",
       "code": "1",
-      "id":1,
       "active": true
     },
     {
       "name": "General Account General Administration Secretarial Administration",
       "code": "2",
-      "id":2,
       "active": true
     },
     {
       "name": "Municipal Finance Accounts and Budget Management",
       "code": "3",
-      "id":3,
       "active": true
     },
     {
       "name": "General Account General Administration Municipal Finance Accounts and Budget Management",
       "code": "4",
-      "id":4,
       "active": true
     },
     {
       "name": "General Account General Administration Municipal Audit",
       "code": "5",
-      "id":5,
       "active": true
     },
     {
       "name": "General Account General Administration Information Technology and Systems Management",
       "code": "6",
-      "id":6,
       "active": true
     },
     {
       "name": "General Account General Administration Law and Legal Service",
       "code": "7",
-      "id":7,
       "active": true
     },
     {
       "name": "General Account General Administration Capacity Building",
       "code": "8",
-      "id":8,
       "active": true
     },
     {
       "name": "General Account General Administration Human Resource Planning and Management",
       "code": "9",
-      "id":9,
       "active": true
     },
     {
       "name": "General Account General Administration Institute of Urban Management",
       "code": "10",
-      "id":10,
       "active": true
     },
     {
       "name": "General Account Planning and Regulation Spatial Data Analysis Planning and Engineering",
       "code": "11",
-      "id":11,
       "active": true
     },
     {
       "name": "General Account Planning and RegulationGeneral Account Health",
       "code": "12",
-      "id":12,
       "active": true
     },
     {
       "name": "General Account Other Services Municipal Record Maintenance",
       "code": "13",
-      "id":13,
       "active": true
     },
     {
       "name": "General Account Other Services Stores and Stores Management",
       "code": "14",
-      "id":14,
       "active": true
     },
     {
       "name": "General Account Other Services Central Workshop",
       "code": "15",
-      "id":15,
       "active": true
     },
     {
       "name": "General Account Other Services Municipal Press",
       "code": "16",
-      "id":16,
       "active": true
     },
     {
       "name": "General Account Other Services Lighting",
       "code": "17",
-      "id":17,
       "active": true
     },
     {
       "name": "General Account Other Services Electricity",
       "code": "18",
-      "id":18,
       "active": true
     },
     {
       "name": "General Account Revenues Building",
       "code": "19",
-      "id":19,
       "active": true
     },
     {
       "name": "General Account Revenues Assessment",
       "code": "20",
-      "id":20,
       "active": true
     },
     {
       "name": "General Account Revenues License and Amusement",
       "code": "21",
-      "id":21,
       "active": true
     },
     {
       "name": "General Account Revenues Others",
       "code": "22",
-      "id":22,
       "active": true
     }
   ]
