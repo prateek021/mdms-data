@@ -5,111 +5,133 @@
     {
       "name": "General Account General Administration Municipal Authorities and Administration",
       "code": "DEPT_1",
+      "id":1,
       "active": true
     },
     {
       "name": "General Account General Administration Secretarial Administration",
       "code": "DEPT_2",
+      "id":2,
       "active": true
     },
     {
       "name": "Municipal Finance Accounts and Budget Management",
       "code": "DEPT_3",
+      "id":3,
       "active": true
     },
     {
       "name": "General Account General Administration Municipal Finance Accounts and Budget Management",
       "code": "DEPT_4",
+      "id":4,
       "active": true
     },
     {
       "name": "General Account General Administration Municipal Audit",
       "code": "DEPT_5",
+      "id":5,
       "active": true
     },
     {
       "name": "General Account General Administration Information Technology and Systems Management",
       "code": "DEPT_6",
+      "id":6,
       "active": true
     },
     {
       "name": "General Account General Administration Law and Legal Service",
       "code": "DEPT_7",
+      "id":7,
       "active": true
     },
     {
       "name": "General Account General Administration Capacity Building",
       "code": "DEPT_8",
+      "id":8,
       "active": true
     },
     {
       "name": "General Account General Administration Human Resource Planning and Management",
       "code": "DEPT_9",
+      "id":9,
       "active": true
     },
     {
       "name": "General Account General Administration Institute of Urban Management",
       "code": "DEPT_10",
+      "id":10,
       "active": true
     },
     {
       "name": "General Account Planning and Regulation Spatial Data Analysis Planning and Engineering",
       "code": "DEPT_11",
+      "id":11,
       "active": true
     },
     {
       "name": "General Account Planning and RegulationGeneral Account Health",
       "code": "DEPT_12",
+      "id":12,
       "active": true
     },
     {
       "name": "General Account Other Services Municipal Record Maintenance",
       "code": "DEPT_13",
+      "id":13,
       "active": true
     },
     {
       "name": "General Account Other Services Stores and Stores Management",
       "code": "DEPT_14",
+      "id":14,
       "active": true
     },
     {
       "name": "General Account Other Services Central Workshop",
       "code": "DEPT_15",
+      "id":15,
       "active": true
     },
     {
       "name": "General Account Other Services Municipal Press",
       "code": "DEPT_16",
+      "id":16,
       "active": true
     },
     {
       "name": "General Account Other Services Lighting",
       "code": "DEPT_17",
+      "id":17,
       "active": true
     },
     {
       "name": "General Account Other Services Electricity",
       "code": "DEPT_18",
+      "id":18,
       "active": true
     },
     {
       "name": "General Account Revenues Building",
       "code": "DEPT_19",
+      "id":19,
       "active": true
     },
     {
       "name": "General Account Revenues Assessment",
       "code": "DEPT_20",
+      "id":20,
       "active": true
     },
     {
       "name": "General Account Revenues License and Amusement",
       "code": "DEPT_21",
+      "id":21,
       "active": true
     },
     {
       "name": "General Account Revenues Others",
       "code": "DEPT_22",
+      "id":22,
       "active": true
     }
   ]
