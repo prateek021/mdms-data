@@ -2935,7 +2935,7 @@
          "displayName": "Property Subtype",
          "orderNumber": 2,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "false",
          "path": "Property Tax.PT Masters.PropertySubType",
@@ -2949,7 +2949,7 @@
          "displayName": "Construction Type",
          "orderNumber": 3,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "false",
          "path": "Property Tax.PT Masters.ConstructionType",
@@ -13530,7 +13530,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Assessee Create",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AssesseeCreate"
+         "navigationURL": "property-tax/assessment-form"
 		 
       },
 	   
@@ -13545,7 +13545,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Update",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeUpdate"
+         "navigationURL": "pt-mutation/propertySearch"
 		 
       },
 	  {
@@ -13559,7 +13559,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "mdms/PropertyTax/AssesseeManitenance/AsesseeSearch"
+         "navigationURL": "pt-mutation/propertySearch"
 		 
       },
       {
@@ -13573,7 +13573,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Self Assessment Entry",
-         "navigationURL": "mdms/PropertyTax/UAA/SelfAssessmentEntry"
+         "navigationURL": "pt-saf/apply"
 		 
       },
       {
@@ -13587,7 +13587,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Fetch and Update SAF",
-         "navigationURL": "mdms/PropertyTax/UAA/FetchAndUpdateSAF"
+         "navigationURL": "pt-saf/fetchViewSaf"
 		 
       },
       {
@@ -13601,7 +13601,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Fetch and View SAF",
-         "navigationURL": "mdms/PropertyTax/UAA/FetchAndViewSAF"
+         "navigationURL": "pt-saf/fetchViewSaf"
 		 
       },
       {
@@ -13727,7 +13727,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Search Proposed AV",
-         "navigationURL": "mdms/PropertyTax/Inspection/SearchProposedAV"
+         "navigationURL": "pt-mutation/propertySearch"
 		 
       },
       {
@@ -13769,7 +13769,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Search",
-         "navigationURL": "mdms/PropertyTax/Hearing/HearingNoticeSearch"
+         "navigationURL": "pt-mutation/hearingNoticeSearch"
 		 
       },
       {
@@ -13783,7 +13783,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card Entry",
-         "navigationURL": "mdms/PropertyTax/Hearing/RateCardEntry"
+         "navigationURL": "pt-mutation/rateCard"
 		 
       },
       {

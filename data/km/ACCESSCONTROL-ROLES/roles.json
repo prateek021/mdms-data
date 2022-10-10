@@ -651,6 +651,11 @@
       "code": "PK_FIELD_INSPECTOR",
       "name": "Parking Field Inspector",
       "description": "Illegal Parking Field Inspector"
-    }
+    },
+	{
+      "code": "PT_TEST_INSPECTOR",
+      "name": "PT Test Inspector",
+      "description": "Property Test Inspector"
+    },
   ]
 }
