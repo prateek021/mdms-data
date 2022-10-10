@@ -13939,6 +13939,72 @@
          "path": "Property Tax.Mutation.Cancel Mutation",
          "navigationURL": "mdms/PropertyTax/Mutation/CancelMutation"
 		 
+      },
+	  {
+         "id": 3071,
+         "name": "Calculate ARV method",
+         "url": "/property-services/property/_calculateArvTax",
+         "displayName": "Calculate ARV method",
+         "orderNumber": 3,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3072,
+         "name": "Create SAF",
+         "url": "/property-services/assessment/_safmastercreate",
+         "displayName": "Create SAF",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3073,
+         "name": "SAF Format",
+         "url": "/property-services/assessment/_safformatsave",
+         "displayName": "SAF Format",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3074,
+         "name": "SAF Master Search",
+         "url": "/property-services/assessment/_safmastersearch",
+         "displayName": "SAF Master Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3075,
+         "name": "SAF Format Search",
+         "url": "/property-services/assessment/_safformatsearch",
+         "displayName": "SAF Format Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
+      },
+	  {
+         "id": 3076,
+         "name": "SAF List Search",
+         "url": "/property-services/assessment/_saflistsearch",
+         "displayName": "SAF List Search",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "property-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }

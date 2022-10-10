@@ -3,7 +3,7 @@
 	"moduleName": "PropertyTax",
 	"ward": [{
 			"name": "010",
-			"code": "10",
+			"code": "010",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "001",
-			"code": "1",
+			"code": "001",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",
@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "002",
-			"code": "2",
+			"code": "002",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",

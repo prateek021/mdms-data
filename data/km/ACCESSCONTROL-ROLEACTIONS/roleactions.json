@@ -13718,6 +13718,12 @@
       "actioncode": "",
       "tenantId": "km"
     },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 1895,
+      "actioncode": "",
+      "tenantId": "km"
+    },
     {
       "rolecode": "PT_CEMP",
       "actionid": 1895,
@@ -13726,6 +13732,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1896,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
       "actionid": 1896,
       "actioncode": "",
       "tenantId": "km"
@@ -13756,6 +13768,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
       "actionid": 1897,
       "actioncode": "",
       "tenantId": "km"
@@ -25151,6 +25169,42 @@
     {
       "rolecode": "PT_TEST_INSPECTOR",
       "actionid": 3070,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3071,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3072,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3073,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3074,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3075,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3076,
       "actioncode": "",
       "tenantId": "km"
     }
