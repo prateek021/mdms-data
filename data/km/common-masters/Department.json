@@ -2,115 +2,1170 @@
   "tenantId": "km",
   "moduleName": "common-masters",
   "Department": [
-    {
-      "name": "General Account General Administration Municipal Authorities and Administration",
-      "code": "1",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Secretarial Administration",
-      "code": "2",
-      "active": true
-    },
-    {
-      "name": "Municipal Finance Accounts and Budget Management",
-      "code": "3",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Municipal Finance Accounts and Budget Management",
-      "code": "4",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Municipal Audit",
-      "code": "5",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Information Technology and Systems Management",
-      "code": "6",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Law and Legal Service",
-      "code": "7",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Capacity Building",
-      "code": "8",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Human Resource Planning and Management",
-      "code": "9",
-      "active": true
-    },
-    {
-      "name": "General Account General Administration Institute of Urban Management",
-      "code": "10",
-      "active": true
-    },
-    {
-      "name": "General Account Planning and Regulation Spatial Data Analysis Planning and Engineering",
-      "code": "11",
-      "active": true
-    },
-    {
-      "name": "General Account Planning and RegulationGeneral Account Health",
-      "code": "12",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Municipal Record Maintenance",
-      "code": "13",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Stores and Stores Management",
-      "code": "14",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Central Workshop",
-      "code": "15",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Municipal Press",
-      "code": "16",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Lighting",
-      "code": "17",
-      "active": true
-    },
-    {
-      "name": "General Account Other Services Electricity",
-      "code": "18",
-      "active": true
-    },
-    {
-      "name": "General Account Revenues Building",
-      "code": "19",
-      "active": true
-    },
-    {
-      "name": "General Account Revenues Assessment",
-      "code": "20",
-      "active": true
-    },
-    {
-      "name": "General Account Revenues License and Amusement",
-      "code": "21",
-      "active": true
-    },
-    {
-      "name": "General Account Revenues Others",
-      "code": "22",
-      "active": true
-    }
+    { 
+ "name" :"Mayor",
+ "code" :"100",
+ "activate": true 
+ },
+{ 
+ "name" :"Chairman",
+ "code" :"101",
+ "activate": true 
+ },
+{ 
+ "name" :"Deputy Mayor",
+ "code" :"102",
+ "activate": true 
+ },
+{ 
+ "name" :"Members Mayor in Council",
+ "code" :"103",
+ "activate": true 
+ },
+{ 
+ "name" :"Councillors ",
+ "code" :"104",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Committee",
+ "code" :"105",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Audit Committee",
+ "code" :"106",
+ "activate": true 
+ },
+{ 
+ "name" :"Borough Committee",
+ "code" :"107",
+ "activate": true 
+ },
+{ 
+ "name" :"Ward Committee",
+ "code" :"108",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Consultative Committee",
+ "code" :"109",
+ "activate": true 
+ },
+{ 
+ "name" :"Others",
+ "code" :"110",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Commissioner",
+ "code" :"111",
+ "activate": true 
+ },
+{ 
+ "name" :"Joint Municipal Commissioner",
+ "code" :"112",
+ "activate": true 
+ },
+{ 
+ "name" :"Controller of Municipal Finance and Accounts",
+ "code" :"113",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Municipal Auditor",
+ "code" :"114",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Engineer in Chief",
+ "code" :"115",
+ "activate": true 
+ },
+{ 
+ "name" :"Deputy Municipal Commissioners",
+ "code" :"116",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Municipal Engineers",
+ "code" :"117",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Municipal Architect and Town Planner",
+ "code" :"118",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Municipal Health Officer",
+ "code" :"119",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Municipal Law Officer",
+ "code" :"120",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Secretary",
+ "code" :"121",
+ "activate": true 
+ },
+{ 
+ "name" :"Officers on Special Duty and Special Appointees",
+ "code" :"122",
+ "activate": true 
+ },
+{ 
+ "name" :"Chief Knowledge Officer and KMC Nodal Officer under RTI",
+ "code" :"123",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Service Commission",
+ "code" :"124",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Vigilance Authority",
+ "code" :"125",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Gazettes and Public Relations",
+ "code" :"130",
+ "activate": true 
+ },
+{ 
+ "name" :"Internal Communication",
+ "code" :"131",
+ "activate": true 
+ },
+{ 
+ "name" :"External Communication and Publicity",
+ "code" :"132",
+ "activate": true 
+ },
+{ 
+ "name" :"Guest Houses",
+ "code" :"133",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Building Service",
+ "code" :"134",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Grievances Cell",
+ "code" :"135",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Collections Municipal Revenue",
+ "code" :"140",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Payables and Disbursement except Salary",
+ "code" :"141",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Personnel Accounts",
+ "code" :"142",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Terminal Benefits",
+ "code" :"143",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Inventory",
+ "code" :"144",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Accounts Financial Statements and Presentation of Periodic Accounts",
+ "code" :"145",
+ "activate": true 
+ },
+{ 
+ "name" :"Others",
+ "code" :"146",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance Budget and Budgetary Management",
+ "code" :"147",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance External Borrowings Agency and Trust Funds",
+ "code" :"148",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance Asset Management Cash Flow and Investments",
+ "code" :"149",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance Ventures PPP",
+ "code" :"150",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance Risk Management and Social Accounting",
+ "code" :"151",
+ "activate": true 
+ },
+{ 
+ "name" :"Budget and Strategic Finance Cost Accounting",
+ "code" :"152",
+ "activate": true 
+ },
+{ 
+ "name" :"Others",
+ "code" :"153",
+ "activate": true 
+ },
+{ 
+ "name" :"Revenue Collections Expenditure and Works",
+ "code" :"155",
+ "activate": true 
+ },
+{ 
+ "name" :"Information Systems Audit",
+ "code" :"156",
+ "activate": true 
+ },
+{ 
+ "name" :"Debts Deposits Advances and Suspense",
+ "code" :"157",
+ "activate": true 
+ },
+{ 
+ "name" :"Internal and Concurrent Audit and Physical Verification",
+ "code" :"158",
+ "activate": true 
+ },
+{ 
+ "name" :"Management and Operational Audit",
+ "code" :"159",
+ "activate": true 
+ },
+{ 
+ "name" :"Information Technology and Systems Management Administration",
+ "code" :"160",
+ "activate": true 
+ },
+{ 
+ "name" :"Systems Manager Hardware and Network Management",
+ "code" :"161",
+ "activate": true 
+ },
+{ 
+ "name" :"Systems Manager Software Management in Functional Domain",
+ "code" :"162",
+ "activate": true 
+ },
+{ 
+ "name" :"Controlling Officer Legal Administration and Legal Research",
+ "code" :"170",
+ "activate": true 
+ },
+{ 
+ "name" :"Controlling Officer Litigations and Trial",
+ "code" :"171",
+ "activate": true 
+ },
+{ 
+ "name" :"Controlling Officer Settlements Enforcement and Assessment of Legal Liability",
+ "code" :"172",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Governance",
+ "code" :"175",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Human Resource Development",
+ "code" :"176",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Training",
+ "code" :"177",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Social Development",
+ "code" :"178",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Resource Mobilisation and Improved Financial Management",
+ "code" :"179",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Information Technology",
+ "code" :"180",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Planning and Environmental Management Support",
+ "code" :"181",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Management Support",
+ "code" :"182",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Geographical Information System",
+ "code" :"183",
+ "activate": true 
+ },
+{ 
+ "name" :"CBP Public Relation",
+ "code" :"184",
+ "activate": true 
+ },
+{ 
+ "name" :"Internal Capacity Building Programmes",
+ "code" :"185",
+ "activate": true 
+ },
+{ 
+ "name" :"Personnel Service Recruitment and Severance",
+ "code" :"190",
+ "activate": true 
+ },
+{ 
+ "name" :"Personnel Service Records",
+ "code" :"191",
+ "activate": true 
+ },
+{ 
+ "name" :"Personnel Service Industrial Relations",
+ "code" :"192",
+ "activate": true 
+ },
+{ 
+ "name" :"H.R. Planning, Personnel Policies and Implementations",
+ "code" :"193",
+ "activate": true 
+ },
+{ 
+ "name" :"Training Needs Assessment Strategy and Policy and Delivery",
+ "code" :"194",
+ "activate": true 
+ },
+{ 
+ "name" :"Human Resource Accounting",
+ "code" :"195",
+ "activate": true 
+ },
+{ 
+ "name" :"IUM Administration",
+ "code" :"197",
+ "activate": true 
+ },
+{ 
+ "name" :"IUM Training",
+ "code" :"198",
+ "activate": true 
+ },
+{ 
+ "name" :"General Engineering Administration",
+ "code" :"410",
+ "activate": true 
+ },
+{ 
+ "name" :"General Engineering Standards Estimation and Quality Management",
+ "code" :"411",
+ "activate": true 
+ },
+{ 
+ "name" :"General Engineering Engineering RandD",
+ "code" :"412",
+ "activate": true 
+ },
+{ 
+ "name" :"Spatial Data Collection and Analysis Economic and Physical",
+ "code" :"413",
+ "activate": true 
+ },
+{ 
+ "name" :"Urban Planning Economic and Physical",
+ "code" :"414",
+ "activate": true 
+ },
+{ 
+ "name" :"Project Planning Development and Monitoring",
+ "code" :"415",
+ "activate": true 
+ },
+{ 
+ "name" :"Urban Architecture ",
+ "code" :"416",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Debates Conferences and Seminars",
+ "code" :"417",
+ "activate": true 
+ },
+{ 
+ "name" :"Test Data Water Supply Administration and Office",
+ "code" :"420",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Administration including Costing Cell",
+ "code" :"610",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Public Health Information and Statistical Analysis",
+ "code" :"611",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Preventive Services Vaccination",
+ "code" :"612",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Preventive Services Vector Control",
+ "code" :"613",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Preventive Services Epidemiological Services",
+ "code" :"614",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Preventive Services Drug Abuse",
+ "code" :"615",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Curative Services Hospitals Dispensaries Clinics",
+ "code" :"616",
+ "activate": true 
+ },
+{ 
+ "name" :"Health Welfare Services Maternity Homes Mobile Clinics",
+ "code" :"617",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Ambulance Service",
+ "code" :"618",
+ "activate": true 
+ },
+{ 
+ "name" :"Food Sanitation and Analysis",
+ "code" :"619",
+ "activate": true 
+ },
+{ 
+ "name" :"Family Planning and Vital Statistics",
+ "code" :"620",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Slaughter Houses",
+ "code" :"621",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Burning Ghats and Crematorium",
+ "code" :"622",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Burial Grounds",
+ "code" :"623",
+ "activate": true 
+ },
+{ 
+ "name" :"Dhobikhana Service",
+ "code" :"624",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Safety Stray Dogs and Rabies",
+ "code" :"625",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Safety Rodent Control",
+ "code" :"626",
+ "activate": true 
+ },
+{ 
+ "name" :"Receiving and Issue",
+ "code" :"820",
+ "activate": true 
+ },
+{ 
+ "name" :"Storage Disposal and destruction",
+ "code" :"821",
+ "activate": true 
+ },
+{ 
+ "name" :"Preservation of Title deeds and other valuable and historical documents",
+ "code" :"822",
+ "activate": true 
+ },
+{ 
+ "name" :"Cataloguing",
+ "code" :"823",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Stores Administration Stores Infrastructure and Housekeeping",
+ "code" :"830",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Stores Purchases Receipts Issues",
+ "code" :"831",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Stores Disposal",
+ "code" :"832",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Stores Monitoring of Sub stores",
+ "code" :"833",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Stores Documentation and Quality Maintenance Compliance",
+ "code" :"834",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Administration",
+ "code" :"840",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Manufacturing",
+ "code" :"841",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Disposal",
+ "code" :"842",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Planning and Innovation",
+ "code" :"843",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Marketing",
+ "code" :"844",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshop Costing and Pricing",
+ "code" :"845",
+ "activate": true 
+ },
+{ 
+ "name" :"Central Workshops Stores Raw Material and Finished Goods",
+ "code" :"846",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Press Administration",
+ "code" :"860",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Press Operations",
+ "code" :"861",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Press Modernisation and Expansion",
+ "code" :"862",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Press Costing",
+ "code" :"863",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Press Materials Control",
+ "code" :"864",
+ "activate": true 
+ },
+{ 
+ "name" :"Lighting Administration including Costing",
+ "code" :"460",
+ "activate": true 
+ },
+{ 
+ "name" :"Lighting Public Streets",
+ "code" :"461",
+ "activate": true 
+ },
+{ 
+ "name" :"Lighting Markets and Institutions",
+ "code" :"462",
+ "activate": true 
+ },
+{ 
+ "name" :"Lighting Parks and Squares",
+ "code" :"463",
+ "activate": true 
+ },
+{ 
+ "name" :"Lighting Other Areas",
+ "code" :"464",
+ "activate": true 
+ },
+{ 
+ "name" :"Electricity Administration",
+ "code" :"471",
+ "activate": true 
+ },
+{ 
+ "name" :"Power Stations / Power Houses",
+ "code" :"472",
+ "activate": true 
+ },
+{ 
+ "name" :"Electrical Network High Voltage",
+ "code" :"473",
+ "activate": true 
+ },
+{ 
+ "name" :"Electrical Network Low Voltage",
+ "code" :"474",
+ "activate": true 
+ },
+{ 
+ "name" :"Building Administration",
+ "code" :"230",
+ "activate": true 
+ },
+{ 
+ "name" :"Building and Plan Sanction Office ",
+ "code" :"231",
+ "activate": true 
+ },
+{ 
+ "name" :"Records of Violation and Management Reporting",
+ "code" :"232",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Building Tribunal",
+ "code" :"233",
+ "activate": true 
+ },
+{ 
+ "name" :"Assessment Administration",
+ "code" :"310",
+ "activate": true 
+ },
+{ 
+ "name" :"Assessors Property Tax Assessment",
+ "code" :"311",
+ "activate": true 
+ },
+{ 
+ "name" :"Data Processing and Bill Generation Property Taxes",
+ "code" :"312",
+ "activate": true 
+ },
+{ 
+ "name" :"Hearing and Grievance Handling Property Taxes",
+ "code" :"313",
+ "activate": true 
+ },
+{ 
+ "name" :"Records Inspection and Reconciliation",
+ "code" :"314",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Appellate Tribunal Property Taxes",
+ "code" :"315",
+ "activate": true 
+ },
+{ 
+ "name" :"License  Administration ",
+ "code" :"340",
+ "activate": true 
+ },
+{ 
+ "name" :"Amusement Administration ",
+ "code" :"341",
+ "activate": true 
+ },
+{ 
+ "name" :"Assessors Licenses ",
+ "code" :"342",
+ "activate": true 
+ },
+{ 
+ "name" :"Assessors Amusement Tax",
+ "code" :"343",
+ "activate": true 
+ },
+{ 
+ "name" :"Carts Registrations",
+ "code" :"344",
+ "activate": true 
+ },
+{ 
+ "name" :"Data Processing and Bill Generation License",
+ "code" :"345",
+ "activate": true 
+ },
+{ 
+ "name" :"Data Processing and Bill Generation Amusement",
+ "code" :"346",
+ "activate": true 
+ },
+{ 
+ "name" :"Municipal Markets Administration including Costing",
+ "code" :"350",
+ "activate": true 
+ },
+{ 
+ "name" :"Advertisement Administration",
+ "code" :"351",
+ "activate": true 
+ },
+{ 
+ "name" :"Parking Administration",
+ "code" :"352",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Supply Administration including Costing Cell",
+ "code" :"420",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Treatment Plants Integrated",
+ "code" :"421",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Clarification Chlorination Filtration and Sedimentation",
+ "code" :"422",
+ "activate": true 
+ },
+{ 
+ "name" :"Booster Pumping Stations",
+ "code" :"423",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Supply House Connections",
+ "code" :"424",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Distribution Main and Sub Networks",
+ "code" :"425",
+ "activate": true 
+ },
+{ 
+ "name" :"Tubewells Big Dia and Small Dia",
+ "code" :"426",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Supply to Ships",
+ "code" :"427",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Supply by Lorries",
+ "code" :"428",
+ "activate": true 
+ },
+{ 
+ "name" :"Water Supply Disaster and Emergency Response",
+ "code" :"429",
+ "activate": true 
+ },
+{ 
+ "name" :"Sewerage and Drainage Administration including Costing Cell",
+ "code" :"430",
+ "activate": true 
+ },
+{ 
+ "name" :"Sewerage Management Sewer Network",
+ "code" :"431",
+ "activate": true 
+ },
+{ 
+ "name" :"Sewerage and Drainage House Connection",
+ "code" :"432",
+ "activate": true 
+ },
+{ 
+ "name" :"Surface Drain Maintenance",
+ "code" :"433",
+ "activate": true 
+ },
+{ 
+ "name" :"Mechanical Sewer Cleansing",
+ "code" :"434",
+ "activate": true 
+ },
+{ 
+ "name" :"Rain and Storm Water Management",
+ "code" :"435",
+ "activate": true 
+ },
+{ 
+ "name" :"Drainage Pumping Station ",
+ "code" :"436",
+ "activate": true 
+ },
+{ 
+ "name" :"Sewerage and Drainage Disaster and Emergency Response",
+ "code" :"437",
+ "activate": true 
+ },
+{ 
+ "name" :"Roads Administration including Costing",
+ "code" :"440",
+ "activate": true 
+ },
+{ 
+ "name" :"Road Development and Maintenance Arterial Roads",
+ "code" :"441",
+ "activate": true 
+ },
+{ 
+ "name" :"Road Development and Maintenance Other Roads",
+ "code" :"442",
+ "activate": true 
+ },
+{ 
+ "name" :"Road Development and Maintenance Pedestrian Pathways and Footpaths",
+ "code" :"443",
+ "activate": true 
+ },
+{ 
+ "name" :"Road Development Disaster and Emergency Response",
+ "code" :"444",
+ "activate": true 
+ },
+{ 
+ "name" :"Asphaltum Works",
+ "code" :"445",
+ "activate": true 
+ },
+{ 
+ "name" :"Road Inspection",
+ "code" :"446",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Administration",
+ "code" :"710",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Education",
+ "code" :"711",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Health and Public Hygiene",
+ "code" :"712",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Lighting",
+ "code" :"713",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Electricity",
+ "code" :"714",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Water Supply and Sewerage and Drainage",
+ "code" :"715",
+ "activate": true 
+ },
+{ 
+ "name" :"Bustee Conservancy",
+ "code" :"716",
+ "activate": true 
+ },
+{ 
+ "name" :"Sanitation Services for Under privileged including Pay and Use Toilets",
+ "code" :"717",
+ "activate": true 
+ },
+{ 
+ "name" :"Roads and Public Enginnering",
+ "code" :"718",
+ "activate": true 
+ },
+{ 
+ "name" :"Social Welfare Centre",
+ "code" :"719",
+ "activate": true 
+ },
+{ 
+ "name" :"Program Evaluation Documentation and Management Reporting",
+ "code" :"720",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Private Partnerships Project Evaluation",
+ "code" :"353",
+ "activate": true 
+ },
+{ 
+ "name" :"Public Private Partnerships Costing Monitoring and Administration",
+ "code" :"354",
+ "activate": true 
+ },
+{ 
+ "name" :"Community Halls",
+ "code" :"355",
+ "activate": true 
+ },
+{ 
+ "name" :"Solid Waste Management and Landfill Sites Administration including Costing",
+ "code" :"450",
+ "activate": true 
+ },
+{ 
+ "name" :"Collection of Solid Waste Domestic ",
+ "code" :"451",
+ "activate": true 
+ },
+{ 
+ "name" :"Collection of Solid Waste Hazardous and Non Hazardous Industrial Waste",
+ "code" :"452",
+ "activate": true 
+ },
+{ 
+ "name" :"Removal of Solid Waste Domestic",
+ "code" :"453",
+ "activate": true 
+ },
+{ 
+ "name" :"Removal of Solid Waste Hazardous and Non Hazardous Industrial Waste",
+ "code" :"454",
+ "activate": true 
+ },
+{ 
+ "name" :"Collection and Removal of Solid Waste Bio Medical Waste",
+ "code" :"455",
+ "activate": true 
+ },
+{ 
+ "name" :"Landfill Sites Operations",
+ "code" :"456",
+ "activate": true 
+ },
+{ 
+ "name" :"Street Watering and Cleaning",
+ "code" :"457",
+ "activate": true 
+ },
+{ 
+ "name" :"Recycling of Solid Waste Administration Operation and Costing",
+ "code" :"458",
+ "activate": true 
+ },
+{ 
+ "name" :"SWM R and D and Knowledge Management Cell",
+ "code" :"459",
+ "activate": true 
+ },
+{ 
+ "name" :"Motor Vehicles Administration",
+ "code" :"480",
+ "activate": true 
+ },
+{ 
+ "name" :"Vehicles Operation",
+ "code" :"481",
+ "activate": true 
+ },
+{ 
+ "name" :"Vehicles Repairs and Maintenance",
+ "code" :"482",
+ "activate": true 
+ },
+{ 
+ "name" :"Records Maintenance and Management Reports",
+ "code" :"483",
+ "activate": true 
+ },
+{ 
+ "name" :"Social Sector Administration",
+ "code" :"630",
+ "activate": true 
+ },
+{ 
+ "name" :"Special Campaigns",
+ "code" :"631",
+ "activate": true 
+ },
+{ 
+ "name" :"Community Reform Programmes",
+ "code" :"632",
+ "activate": true 
+ },
+{ 
+ "name" :"Community Service Programmes",
+ "code" :"633",
+ "activate": true 
+ },
+{ 
+ "name" :"Administration of State Sponsored Social Sector Programmes",
+ "code" :"634",
+ "activate": true 
+ },
+{ 
+ "name" :"Community Disaster Response Programmes Training and Post Disaster Rehabilitation",
+ "code" :"635",
+ "activate": true 
+ },
+{ 
+ "name" :"Land and Estate Administration",
+ "code" :"220",
+ "activate": true 
+ },
+{ 
+ "name" :"Survey Valuation and Maintenance of Properties",
+ "code" :"221",
+ "activate": true 
+ },
+{ 
+ "name" :"Maps and Plans Preparation and Updating",
+ "code" :"222",
+ "activate": true 
+ },
+{ 
+ "name" :"Deviation Logs Documentation Reporting and Follow Ups",
+ "code" :"223",
+ "activate": true 
+ },
+{ 
+ "name" :"Project Management Units for KMC KEIP",
+ "code" :"250",
+ "activate": true 
+ },
+{ 
+ "name" :"Project Management Units General",
+ "code" :"260",
+ "activate": true 
+ },
+{ 
+ "name" :"Energy Audit",
+ "code" :"270",
+ "activate": true 
+ },
+{ 
+ "name" :"Heritage Building Administration including Costing and Inventory Maintenance",
+ "code" :"400",
+ "activate": true 
+ },
+{ 
+ "name" :"Heritage Building Preservation and Conservation",
+ "code" :"401",
+ "activate": true 
+ },
+{ 
+ "name" :"Curator Services",
+ "code" :"402",
+ "activate": true 
+ },
+{ 
+ "name" :"Administration Accounting Costing and Pricing",
+ "code" :"490",
+ "activate": true 
+ },
+{ 
+ "name" :"Control Of Materials Raw Materials and Products",
+ "code" :"491",
+ "activate": true 
+ },
+{ 
+ "name" :"Maintenance of Open Spaces",
+ "code" :"492",
+ "activate": true 
+ },
+{ 
+ "name" :"Maintenance of Water Bodies",
+ "code" :"493",
+ "activate": true 
+ },
+{ 
+ "name" :"Installation and Maintenance of Furniture Open spaces",
+ "code" :"494",
+ "activate": true 
+ },
+{ 
+ "name" :"Nurseries Operation and Maintenance",
+ "code" :"495",
+ "activate": true 
+ },
+{ 
+ "name" :"Marketing and Sales of Horticultural Products",
+ "code" :"496",
+ "activate": true 
+ },
+{ 
+ "name" :"Education Administration including Costing",
+ "code" :"520",
+ "activate": true 
+ },
+{ 
+ "name" :"Primary Education",
+ "code" :"521",
+ "activate": true 
+ },
+{ 
+ "name" :"Mid Day Meals",
+ "code" :"522",
+ "activate": true 
+ },
+{ 
+ "name" :"Vocational Education",
+ "code" :"523",
+ "activate": true 
+ },
+{ 
+ "name" :"Day Care",
+ "code" :"524",
+ "activate": true 
+ }
   ]
 }
