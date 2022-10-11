@@ -3,7 +3,7 @@
 	"moduleName": "PropertyTax",
 	"ward": [{
 			"name": "010",
-			"code": "10",
+			"code": "010",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",
@@ -11,11 +11,11 @@
 			}],
 			"street": [{
 					"name": "ABHOY GHOSE LANE",
-					"code": "1"
+					"code": "01"
 				},
 				{
 					"name": "ANANDA LANE",
-					"code": "2"
+					"code": "02"
 				}
 			],
 			"block": [{
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "001",
-			"code": "1",
+			"code": "001",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",
@@ -40,23 +40,23 @@
 			}],
 			"street": [{
 					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "1"
+					"code": "01"
 				},
 				{
 					"name": "CHANDRA KUMAR ROY LANE",
-					"code": "2"
+					"code": "02"
 				},
 				{
 					"name": "COSSIPORE ROAD",
-					"code": "3"
+					"code": "03"
 				},
 				{
 					"name": "GOBINDA MONDAL ROAD",
-					"code": "4"
+					"code": "04"
 				},
 				{
 					"name": "GOPAL CHANDRA CHATTERJEE ROAD",
-					"code": "5"
+					"code": "05"
 				}
 			],
 
@@ -74,7 +74,7 @@
 		},
 		{
 			"name": "002",
-			"code": "2",
+			"code": "002",
 			"active": true,
 			"office": [{
 				"name": "A.C NORTH",
@@ -82,15 +82,15 @@
 			}],
 			"street": [{
 					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "1"
+					"code": "01"
 				},
 				{
 					"name": "CENTRE SINTHEE ROAD",
-					"code": "2"
+					"code": "02"
 				},
 				{
 					"name": "D GUPTA LANE",
-					"code": "3"
+					"code": "03"
 				}
 			],
 			"block": [{
@@ -115,11 +115,11 @@
 			}],
 			"street": [{
 					"name": "ANGARIKA DHARMAPALA STREET",
-					"code": "1"
+					"code": "01"
 				},
 				{
 					"name": "BEPIN BEHARI GANGULY STREET",
-					"code": "2"
+					"code": "02"
 				}
 			],
 			"block": [{

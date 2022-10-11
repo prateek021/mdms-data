@@ -3,39 +3,34 @@
   "moduleName": "PropertyTax",
   "PremisesType": [
     {
-     "name": "State Government",
-      "code": "State Government",
+     "name": "HO Govt",
+      "code": "15",
       "active": true
 	  
     },
     {
-      "name": "Central Government",
-      "code": "Central Government",
+      "name": "HO Govt",
+      "code": "17",
 	  "active": true
 	},
 	{
       "name": "Kolkata Proper",
-      "code": "Kolkata Proper",
+      "code": "11",
 	  "active": true
 	},
 	{
-      "name": "Bustee",
-      "code": "Bustee",
+      "name": "HO Bustee",
+      "code": "12",
 	  "active": true
 	},
 	{
       "name": "Multi Storeyed Building",
-      "code": "Multi Storeyed Building",
+      "code": "14",
 	  "active": true
 	},
 	{
       "name": "Kolkata Port Trust",
-      "code": "Kolkata Port Trust",
-	  "active": true
-	},
-	{
-      "name": "Colony",
-      "code": "Colony",
+      "code": "16",
 	  "active": true
 	}
 	

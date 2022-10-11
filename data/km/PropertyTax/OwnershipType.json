@@ -4,38 +4,38 @@
   "OwnershipType": [
     {
      "name": "State Govt Premises",
-      "code": "STATEGOVTPREMISES",
+      "code": "STATE GOVT PREMISES",
       "active": true
 	  
     },
     {
       "name": "Central Govt Premises",
-      "code": "CENTRALGOVTPREMISES",
+      "code": "CENTRAL GOVT PREMISES",
 	  "active": true
 	},
 	{
       "name": "Statutory Bodies",
-      "code": "STATUTORYBODIES",
+      "code": "STATUTORY BODIES",
 	  "active": true
 	},
 	{
       "name": "Thika Premises",
-      "code": "THIKAPREMISES",
+      "code": "THIKA PREMISES",
 	  "active": true
 	},
 	{
       "name": "Bustee Premises",
-      "code": "BUSTEEPREMISES",
+      "code": "BUSTEE PREMISES",
 	  "active": true
 	},
 	{
       "name": "Khasmahal Property",
-      "code": "KHASMAHALPROPERTY",
+      "code": "KHASMAHAL PROPERTY",
 	  "active": true
 	},
 	{
       "name": "Private Property",
-      "code": "PRIVATEPROPERTY",
+      "code": "PRIVATE PROPERTY",
 	  "active": true
 	},
 	{
