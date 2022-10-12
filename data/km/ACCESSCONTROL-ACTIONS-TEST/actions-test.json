@@ -4950,7 +4950,7 @@
       {
          "id": 1725,
          "name": "purchaseordercreate",
-         "url": "url",
+         "url": "/services/EGF/purchaseorder/newform",
          "displayName": "Create Purchase Order",
          "orderNumber": 12,
          "parentModule": "",
@@ -4964,7 +4964,7 @@
       {
          "id": 1726,
          "name": "purchaseorderview",
-         "url": "url",
+         "url": "/services/EGF/purchaseorder/search/view",
          "displayName": "View Purchase Order",
          "orderNumber": 12,
          "parentModule": "",
@@ -4978,7 +4978,7 @@
       {
          "id": 1727,
          "name": "purchaseordermodify",
-         "url": "url",
+         "url": "/services/EGF/purchaseorder/search/edit",
          "displayName": "Modify Purchase Order",
          "orderNumber": 13,
          "parentModule": "",
@@ -5032,7 +5032,7 @@
       {
          "id": 1731,
          "name": "workordercreate",
-         "url": "url",
+         "url": "/services/EGF/workorder/newform",
          "displayName": "Create Work Order",
          "orderNumber": 13,
          "parentModule": "",
@@ -5046,7 +5046,7 @@
       {
          "id": 1732,
          "name": "workorderview",
-         "url": "url",
+         "url": "/services/EGF/workorder/search/view",
          "displayName": "View Work Order",
          "orderNumber": 14,
          "parentModule": "",
@@ -5060,7 +5060,7 @@
       {
          "id": 1733,
          "name": "workordermodify",
-         "url": "url",
+         "url": "/services/EGF/workorder/search/edit",
          "displayName": "Modify Work Order",
          "orderNumber": 15,
          "parentModule": "",
@@ -5086,7 +5086,7 @@
       {
          "id": 1735,
          "name": "PendingDeductions",
-         "url": "url",
+         "url": "/services/EGF/report/pendingTDSReport.action",
          "displayName": "Remittance Pending",
          "orderNumber": 6,
          "enabled": true,
@@ -5099,7 +5099,7 @@
       {
          "id": 1736,
          "name": "DeductionSummary",
-         "url": "url",
+         "url": "/services/EGF/report/pendingTDSReport-summaryReport.action",
          "displayName": "Deductions Summary",
          "orderNumber": 7,
          "enabled": true,
