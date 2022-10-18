@@ -13446,20 +13446,6 @@
       "rightIcon": ""
    },
    {
-      "id": 3029,
-      "name": "Create",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Create",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "FinanceMaster",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.COA.Account.Create",
-      "navigationURL": "services/EGF/account/new"
-   },
-   {
       "id": 3035,
       "name": "Agency Master",
       "url": "url",
