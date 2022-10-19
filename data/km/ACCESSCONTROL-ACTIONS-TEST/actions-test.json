@@ -1093,15 +1093,17 @@
       },
       {
          "id": 664,
-         "name": "createFundSource_Master",
+         "name": "FundSource-Create",
          "url": "/egf-master/fundsources/_create",
+         "parentModule": "",
          "displayName": "Create Fund Source",
          "orderNumber": 4,
-         "parentModule": "232",
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Fund.Create Fund Source",
+         "navigationURL": "egf-master/fundsources/_create"
       },
       {
          "id": 665,
