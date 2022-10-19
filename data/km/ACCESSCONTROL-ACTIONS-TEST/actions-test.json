@@ -1094,7 +1094,7 @@
       {
          "id": 664,
          "name": "FundSource-Create",
-         "url": "/egf-master/fundsources/_create",
+         "url": "/services/EGF/fundsource/new",
          "parentModule": "",
          "displayName": "Create Fund Source",
          "orderNumber": 4,
@@ -1103,7 +1103,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Fund.Create Fund Source",
-         "navigationURL": "egf-master/fundsources/_create"
+         "navigationURL": "services/EGF/fundsource/new"
       },
       {
          "id": 665,
