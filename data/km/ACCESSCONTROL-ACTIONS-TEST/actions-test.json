@@ -1099,7 +1099,7 @@
          "orderNumber": 1,
          "parentModule": "238",
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
       },
@@ -1111,7 +1111,7 @@
          "orderNumber": 2,
          "parentModule": "238",
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
       },
@@ -1123,7 +1123,7 @@
          "orderNumber": 3,
          "parentModule": "238",
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
       },
