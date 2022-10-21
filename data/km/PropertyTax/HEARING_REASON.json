@@ -1,0 +1,70 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "HEARING_REASON":
+  [
+    {
+      "name": "A-75",
+      "code": "A-75",
+	  "description":"A-75",
+      "active": true
+    },
+   
+    {
+      "name": "iia",
+      "code": "iia",
+	  "description":"iia -Increase in rent on account of redevelopment,addition,alteration or improvement",
+      "active": true
+    },
+    {
+      "name": "i",
+      "code": "i",
+	  "description":"i - Revision in area and/or rise of value of land",
+      "active": true
+    },
+	{
+      "name": "iib",
+      "code": "iib",
+	  "description":"iib -Increase in rent on account of rise of rent since last valuation",
+      "active": true
+    },
+   
+    {
+      "name": "iiia",
+      "code": "iiia",
+	  "description":"iiia -Valuation made on estimated cost of construction and value of land",
+      "active": true
+    },
+    {
+      "name": "iiib",
+      "code": "iiib",
+	  "description":"iiib -Valuation made on the basis of cost of acquisition",
+      "active": true
+    },
+	{
+      "name": "iv",
+      "code": "iv",
+	  "description":"iv -New valuation on separation/apportionment/amalgamation",
+      "active": true
+    },
+	{
+      "name": "v",
+      "code": "v",
+	  "description":"v -Valuation of the new building on estimated annual rent",
+      "active": true
+    },
+   
+    {
+      "name": "vi",
+      "code": "vi",
+	  "description":"vi -Revaluation of the premises on estimated  annual rent",
+      "active": true
+    },
+    {
+      "name": "iiab",
+      "code": "iiab",
+	  "description":"iiab - Rise of Rent on a/c of re-development,addtn,alteration,improvement;rise of rent since last valuation",
+      "active": true
+    }
+  ]
+}

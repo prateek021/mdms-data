@@ -141,6 +141,22 @@
         "$.code"
       ]
     },
+	"HEARING_SECTION": {
+      "masterName": "HEARING_SECTION",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+	"HEARING_REASON": {
+      "masterName": "HEARING_REASON",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
 	"AGE_MULTI_FACTOR": {
       "masterName": "AGE_MULTI_FACTOR",
       "moduleDefinition": null,
