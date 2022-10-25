@@ -2,110 +2,6 @@
 	"tenantId": "km",
 	"moduleName": "PropertyTax",
 	"ward": [{
-			"name": "010",
-			"code": "010",
-			"active": true,
-			"office": [{
-				"name": "A.C NORTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "ABHOY GHOSE LANE",
-					"code": "01"
-				},
-				{
-					"name": "ANANDA LANE",
-					"code": "02"
-				}
-			],
-			"block": [{
-					"name": "10",
-					"code": "10",
-					"category": "D"
-				},
-				{
-					"name": "10",
-					"code": "10",
-					"category": "C"
-				}
-			]
-		},
-		{
-			"name": "001",
-			"code": "001",
-			"active": true,
-			"office": [{
-				"name": "A.C NORTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "01"
-				},
-				{
-					"name": "CHANDRA KUMAR ROY LANE",
-					"code": "02"
-				},
-				{
-					"name": "COSSIPORE ROAD",
-					"code": "03"
-				},
-				{
-					"name": "GOBINDA MONDAL ROAD",
-					"code": "04"
-				},
-				{
-					"name": "GOPAL CHANDRA CHATTERJEE ROAD",
-					"code": "05"
-				}
-			],
-
-			"block": [{
-					"name": "01",
-					"code": "01",
-					"category": "D"
-				},
-				{
-					"name": "01",
-					"code": "01",
-					"category": "E"
-				}
-			]
-		},
-		{
-			"name": "002",
-			"code": "002",
-			"active": true,
-			"office": [{
-				"name": "A.C NORTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "BARRACKPORE TRUNK ROAD",
-					"code": "01"
-				},
-				{
-					"name": "CENTRE SINTHEE ROAD",
-					"code": "02"
-				},
-				{
-					"name": "D GUPTA LANE",
-					"code": "03"
-				}
-			],
-			"block": [{
-					"name": "ABHOY GHOSE LANE",
-					"code": "1",
-					"category": "E"
-				},
-				{
-					"name": "ANANDA LANE",
-					"code": "2",
-					"category": "E"
-				}
-			]
-		},
-		{
 			"name": "044",
 			"code": "044",
 			"active": true,
@@ -125,19 +21,117 @@
 			"block": [{
 					"name": "44/1",
 					"code": "44/1",
-					"category": "C"
+					"category": "C",
+					"value":"42"
 				},
 				{
 					"name": "44/2",
 					"code": "44/2",
-					"category": "B"
+					"category": "B",
+					"value":"56"
 				},
 				{
 					"name": "44/3",
 					"code": "44/3",
-					"category": "A"
+					"category": "A",
+					"value":"74"
+				}
+			]
+		},
+	
+	    {
+			"name": "061",
+			"code": "061",
+			"active": true,
+			"office": [{
+				"name": "A.C SOUTH",
+				"code": "1"
+			}],
+			"street": [{
+					"name": "BEDFORD LANE",
+					"code": "02"
+				},
+				{
+					"name": "BENIAPUKUR LANE",
+					"code": "03"
+				}
+			],
+			"block": [{
+					"name": "61/1",
+					"code": "61/1",
+					"category": "A",
+					"value":"74"
+				},
+				{
+					"name": "61/2",
+					"code": "61/2",
+					"category": "C",
+					"value":"42"
+				}
+			]
+		},
+		{
+			"name": "062",
+			"code": "062",
+			"active": true,
+			"office": [{
+				"name": "A.C SOUTH",
+				"code": "1"
+			}],
+			"street": [{
+					"name": "ABDUL ALI ROW",
+					"code": "01"
+				},
+				{
+					"name": "AGA MEHDI STREET",
+					"code": "04"
+				}
+			],
+			"block": [{
+					"name": "62/1",
+					"code": "62/1",
+					"category": "C",
+					"value":"42"
+				},
+				{
+					"name": "62/2",
+					"code": "62/2",
+					"category": "D",
+					"value":"32"
+				}
+			]
+		},
+		{
+			"name": "065",
+			"code": "065",
+			"active": true,
+			"office": [{
+				"name": "A.C SOUTH",
+				"code": "1"
+			}],
+			"street": [{
+					"name": "ASHUTOSH CHOWDHURY AVENUE",
+					"code": "01"
+				},
+				{
+					"name": "BAMANPARA LANE",
+					"code": "03"
+				}
+			],
+			"block": [{
+					"name": "65/1",
+					"code": "65/1",
+					"category": "B",
+					"value":"56"
+				},
+				{
+					"name": "65/2",
+					"code": "65/2",
+					"category": "E",
+					"value":"24"
 				}
 			]
 		}
+		
 	]
 }

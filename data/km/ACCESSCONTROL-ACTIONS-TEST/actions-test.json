@@ -13561,7 +13561,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Self Assessment Entry",
-         "navigationURL": "pt-saf/apply"
+         "navigationURL": "pt-saf/search"
 		 
       },
       {
@@ -13571,7 +13571,7 @@
          "displayName": "Fetch and Update SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Fetch and Update SAF",
@@ -13580,15 +13580,15 @@
       },
       {
          "id": 3046,
-         "name": "Fetch and View SAF",
+         "name": "View SAF",
          "url": "url",
-         "displayName": "Fetch and View SAF",
+         "displayName": "View SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Fetch and View SAF",
+         "path": "Property Tax.UAA.View SAF",
          "navigationURL": "pt-saf/fetchViewSaf"
 		 
       },
@@ -13613,7 +13613,7 @@
          "displayName": "UAA Mobile/ID Updation for Suo-Moto SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA Mobile/ID Updation for Suo-Moto SAF",
