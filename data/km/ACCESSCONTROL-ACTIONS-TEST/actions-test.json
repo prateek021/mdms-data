@@ -1107,27 +1107,29 @@
       },
       {
          "id": 665,
-         "name": "updateFundSource_Master",
-         "url": "/egf-master/fundsources/_update",
+         "name": "FundSource-Update",
+         "url": "/services/EGF/fundsource/update",
          "displayName": "Modify Fund Source",
          "orderNumber": 5,
-         "parentModule": "232",
+         "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
+         "path": "Finance.Masters.Fund.Update Fund Source",
+         "navigationURL": "services/EGF/fundsource/update"
       },
       {
          "id": 666,
-         "name": "searchFundSource_Master",
-         "url": "/egf-master/fundsources/_search",
-         "displayName": "Search Fund Source",
+         "name": "FundSource-View",
+         "url": "/services/EGF/fundsource/search/view",
+         "displayName": "View Fund Source",
          "orderNumber": 6,
-         "parentModule": "232",
+         "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
+         "path": "Finance.Masters.Fund.View Fund Source",
+         "navigationURL": "services/EGF/fundsource/search/view"
       },
       {
          "id": 667,
