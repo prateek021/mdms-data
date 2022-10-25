@@ -1108,7 +1108,7 @@
       {
          "id": 665,
          "name": "FundSource-Update",
-         "url": "/services/EGF/fundsource/update",
+         "url": "/services/EGF/fundsource/search/edit",
          "displayName": "Modify Fund Source",
          "orderNumber": 5,
          "parentModule": "",
@@ -1116,7 +1116,7 @@
          "serviceCode": "FinanceMaster",
          "code": "null",
          "path": "Finance.Masters.Fund.Update Fund Source",
-         "navigationURL": "services/EGF/fundsource/update"
+         "navigationURL": "services/EGF/fundsource/search/edit"
       },
       {
          "id": 666,
