@@ -1,137 +1,196 @@
 {
 	"tenantId": "km",
 	"moduleName": "PropertyTax",
-	"ward": [{
-			"name": "044",
-			"code": "044",
-			"active": true,
-			"office": [{
-				"name": "A.C NORTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "ANGARIKA DHARMAPALA STREET",
-					"code": "01"
-				},
-				{
-					"name": "BEPIN BEHARI GANGULY STREET",
-					"code": "02"
-				}
-			],
-			"block": [{
-					"name": "44/1",
-					"code": "44/1",
-					"category": "C",
-					"value":"42"
-				},
-				{
-					"name": "44/2",
-					"code": "44/2",
-					"category": "B",
-					"value":"56"
-				},
-				{
-					"name": "44/3",
-					"code": "44/3",
-					"category": "A",
-					"value":"74"
-				}
+	"ward": [
+	{
+                    "name": "001",
+                    "code": "1",
+                    "active": true,
+					"office": [{
+			"name": "A.C NORTH",
+			"code": "1"
+		}],
+                    "street": [
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "01"
+                        },
+                        {
+                            "name": "CHANDRA KUMAR ROY LANE",
+                            "code": "02"
+                        },
+                        {
+                            "name": "COSSIPORE ROAD",
+                            "code": "03"
+                        },
+                        {
+                            "name": "GOBINDA MONDAL ROAD",
+                            "code": "04"
+                        },
+                        {
+                            "name": "GOPAL CHANDRA CHATTERJEE ROAD",
+                            "code": "05"
+                        }
+                    ],
+					
+            "block":[{
+			   "name": "1/1",
+				"code": "1/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+				"name": "1/2",
+				"code": "1/2",
+				"category":"D",
+				"value":"32"
+			}
+			]  
+                },
+                {
+                    "name": "002",
+                    "code": "2",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    "street": [
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "01"
+                        },
+                        {
+                            "name": "CENTRE SINTHEE ROAD",
+                            "code": "02"
+                        },
+                        {
+                            "name": "D GUPTA LANE",
+                            "code": "03"
+                        }
+                    ],
+					"block":[{
+			   "name": "2/1",
+				"code": "2/1",
+				"category":"D",
+				"value":"32"
+			}
 			]
-		},
-	
-	    {
-			"name": "061",
-			"code": "061",
-			"active": true,
-			"office": [{
-				"name": "A.C SOUTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "BEDFORD LANE",
-					"code": "02"
-				},
-				{
-					"name": "BENIAPUKUR LANE",
-					"code": "03"
-				}
-			],
-			"block": [{
-					"name": "61/1",
-					"code": "61/1",
-					"category": "A",
-					"value":"74"
-				},
-				{
-					"name": "61/2",
-					"code": "61/2",
-					"category": "C",
-					"value":"42"
-				}
+                },
+			{
+                    "name": "003",
+                    "code": "3",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    "street": [
+                        {
+                            "name": "ANATH NATH DEB LANE",
+                            "code": "01"
+                        },
+                        {
+                            "name": "BEERPARA LANE",
+                            "code": "02"
+                        },
+                        {
+                            "name": "BUTTO KRISTO PAUL LANE",
+                            "code": "03"
+                        }
+                    ],
+					"block":[{
+			   "name": "3/1",
+				"code": "3/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "3/2",
+				"code": "3/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "3/3",
+				"code": "3/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "3/4",
+				"code": "3/4",
+				"category":"E",
+				"value":"24"
+			}
+			
 			]
-		},
-		{
-			"name": "062",
-			"code": "062",
-			"active": true,
-			"office": [{
-				"name": "A.C SOUTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "ABDUL ALI ROW",
-					"code": "01"
-				},
-				{
-					"name": "AGA MEHDI STREET",
-					"code": "04"
-				}
-			],
-			"block": [{
-					"name": "62/1",
-					"code": "62/1",
-					"category": "C",
-					"value":"42"
-				},
-				{
-					"name": "62/2",
-					"code": "62/2",
-					"category": "D",
-					"value":"32"
-				}
+                },
+			{
+                    "name": "004",
+                    "code": "4",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    "street": [
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "01"
+                        },
+                        {
+                            "name": "BEERPARA LANE",
+                            "code": "02"
+                        },
+                        {
+                            "name": "CHANDRA NATH SIMLAI LANE",
+                            "code": "03"
+                        }
+                    ],
+					"block":[{
+			   "name": "4/1",
+				"code": "4/1",
+				"category":"D",
+				"value":"32"
+			}
 			]
-		},
-		{
-			"name": "065",
-			"code": "065",
-			"active": true,
-			"office": [{
-				"name": "A.C SOUTH",
-				"code": "1"
-			}],
-			"street": [{
-					"name": "ASHUTOSH CHOWDHURY AVENUE",
-					"code": "01"
-				},
-				{
-					"name": "BAMANPARA LANE",
-					"code": "03"
-				}
-			],
-			"block": [{
-					"name": "65/1",
-					"code": "65/1",
-					"category": "B",
-					"value":"56"
-				},
-				{
-					"name": "65/2",
-					"code": "65/2",
-					"category": "E",
-					"value":"24"
-				}
+                },
+			{
+                    "name": "005",
+                    "code": "5",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    "street": [
+                        {
+                            "name": "ANATH NATH DEB LANE",
+                            "code": "01"
+                        },
+                        {
+                            "name": "BARRACKPORE TRUNK ROAD",
+                            "code": "02"
+                        },
+                        {
+                            "name": "BHAIRAB MOOKHERJEE LANE",
+                            "code": "03"
+                        }
+                    ],
+					"block":[{
+			   "name": "5/1",
+				"code": "5/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "5/2",
+				"code": "5/2",
+				"category":"E",
+				"value":"24"
+			}
 			]
-		}
-		
-	]
-}
+                }
+	]		
+	}

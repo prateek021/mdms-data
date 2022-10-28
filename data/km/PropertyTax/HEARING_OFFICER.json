@@ -1,0 +1,70 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "HEARING_OFFICER":
+  [
+    {
+      "name": "IV",
+      "code": "IV",
+	  "description":"SRI BIMAL KR. SAHU",
+      "active": true
+    },
+   
+    {
+      "name": "NTH",
+      "code": "NTH",
+	  "description":"NORTH-BENCH",
+      "active": true
+    },
+    {
+      "name": "STH",
+      "code": "STH",
+	  "description":"SOUTH-BENCH",
+      "active": true
+    },
+	{
+      "name": "TTD",
+      "code": "TTD",
+	  "description":"TTD-BENCH",
+      "active": true
+    },
+   
+    {
+      "name": "T II",
+      "code": "T II",
+	  "description":"GOURANGA GOPAL SARKAR",
+      "active": true
+    },
+    {
+      "name": "TIII",
+      "code": "TIII",
+	  "description":"SYED SAEED ALAM",
+      "active": true
+    },
+	{
+      "name": "T IV",
+      "code": "T IV",
+	  "description":"QAMAR PARWAIZ",
+      "active": true
+    },
+	{
+      "name": "K I",
+      "code": "K I",
+	  "description":"MRINALKANTI DAS",
+      "active": true
+    },
+   
+    {
+      "name": "K II",
+      "code": "K II",
+	  "description":"PRANAB KUMAR PAUL",
+      "active": true
+    },
+    {
+      "name": "KIII",
+      "code": "KIII",
+	  "description":"SHYAMAL GHOSAL",
+      "active": true
+    }
+  ]
+}
