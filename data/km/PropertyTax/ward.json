@@ -4,7 +4,7 @@
 	"ward": [
 	{
                     "name": "001",
-                    "code": "1",
+                    "code": "001",
                     "active": true,
 					"office": [{
 			"name": "A.C NORTH",
@@ -49,7 +49,7 @@
                 },
                 {
                     "name": "002",
-                    "code": "2",
+                    "code": "002",
                     "active": true,
 					"office": [{
 			        "name": "A.C NORTH",
@@ -79,7 +79,7 @@
                 },
 			{
                     "name": "003",
-                    "code": "3",
+                    "code": "003",
                     "active": true,
 					"office": [{
 			        "name": "A.C NORTH",
@@ -128,7 +128,7 @@
                 },
 			{
                     "name": "004",
-                    "code": "4",
+                    "code": "004",
                     "active": true,
 					"office": [{
 			        "name": "A.C NORTH",
@@ -158,7 +158,7 @@
                 },
 			{
                     "name": "005",
-                    "code": "5",
+                    "code": "005",
                     "active": true,
 					"office": [{
 			        "name": "A.C NORTH",
