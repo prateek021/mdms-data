@@ -5,21 +5,24 @@
   [
     {
       "name": "L1",
-      "code": "0.60",
-	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH LESS THAN OR EQUAL TO 2.5M (8.20ft).",
+	  "code": "L1",
+      "value": "0.60",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH LESS THAN OR EQUAL TO 2.5M (8.20ft).~(0.60)",
       "active": true
     },
    
     {
       "name": "L2",
-      "code": "0.80",
-	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 2.5M (8.20ft) BUT LESS THEN OR EQUAL TO 3.5M (11.48ft)S",
+	  "code": "L2",
+      "value": "0.80",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 2.5M (8.20ft) BUT LESS THEN OR EQUAL TO 3.5M (11.48ft)S~(0.80)",
       "active": true
     },
     {
       "name": "L3",
-      "code": "1.00",
-	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 3.5M (11.48ft) BUT LESS THEN OR EQUAL TO 12M (39.37ft)",
+	  "code": "L3",
+      "value": "1.00",
+	  "description":"PROPERTY ABUTTED BY ROADS HAVING WIDTH GRATER THAN 3.5M (11.48ft) BUT LESS THEN OR EQUAL TO 12M (39.37ft)~(1.00)",
       "active": true
     }
   ]

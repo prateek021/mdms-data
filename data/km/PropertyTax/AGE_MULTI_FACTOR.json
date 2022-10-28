@@ -5,21 +5,24 @@
   [
     {
       "name": "A1",
-      "code": "1.00",
-	  "description":"AGE OF PREMISES 20 YEARS OR LESS",
+	  "code": "A1",
+      "value": "1.00",
+	  "description":"AGE OF PREMISES 20 YEARS OR LESS(1.00)",
       "active": true
     },
    
     {
       "name": "A2",
-      "code": "0.90",
-	  "description":"AGE OF PREMISES MORE THAN 20 YEARS BUT LESS THAN OR EQUAL TO 50 YEARS",
+	  "code": "A2",
+      "value": "0.90",
+	  "description":"AGE OF PREMISES MORE THAN 20 YEARS BUT LESS THAN OR EQUAL TO 50 YEARS(0.90)",
       "active": true
     },
     {
       "name": "A3",
-      "code": "0.80",
-	  "description":"AGE OF PREMISES MORE THEN 50 YEARS",
+	  "code": "A3",
+      "value": "0.80",
+	  "description":"AGE OF PREMISES MORE THEN 50 YEARS(0.80)",
       "active": true
     }
   ]

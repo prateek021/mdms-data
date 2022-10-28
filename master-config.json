@@ -141,6 +141,14 @@
         "$.code"
       ]
     },
+	"HEARING_OFFICER": {
+      "masterName": "HEARING_OFFICER",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
 	"HEARING_SECTION": {
       "masterName": "HEARING_SECTION",
       "moduleDefinition": null,
