@@ -1,0 +1,107 @@
+{
+  "tenantId": "km",
+  "moduleName": "PropertyTax",
+  "HEARING_SECTION":
+  [
+    {
+      "name": "Sec 179(1)",
+      "code": "S1",
+      "active": true
+    },
+   
+    {
+      "name": "Sec 179(2)(a)",
+      "code": "S2",
+      "active": true
+    },
+   {
+      "name": "Sec 179(2)(aa)",
+      "code": "S3",
+      "active": true
+    },
+   {
+      "name": "Sec 179(2)(b)",
+      "code": "S4",
+      "active": true
+    },
+   {
+      "name": "Sec 179(2)(c)",
+      "code": "S5",
+      "active": true
+    },
+   
+    {
+      "name": "Sec 179(2)(d)",
+      "code": "S6",
+      "active": true
+    },
+   {
+      "name": "Sec 180(1)",
+      "code": "S7",
+      "active": true
+    },
+	{
+      "name": "Sec 180(2)(ii)",
+      "code": "S8",
+      "active": true
+    },
+   
+    {
+      "name": "Sec 180(2)(iii)",
+      "code": "S9",
+      "active": true
+    },
+   {
+      "name": "Sec 180(2)(iv)",
+      "code": "S10",
+      "active": true
+    },
+   {
+      "name": "Sec 180(2)(v)",
+      "code": "S11",
+      "active": true
+    },
+   {
+      "name": "Sec 180(2)(vi)",
+      "code": "S12",
+      "active": true
+    },
+   
+    {
+      "name": "Sec 180(2)(vii)",
+      "code": "S13",
+      "active": true
+    },
+   {
+      "name": "Sec 180(2)(viii)",
+      "code": "S14",
+      "active": true
+    },
+	{
+      "name": "Sec 180(2)(ix)",
+      "code": "S15",
+      "active": true
+    },
+   
+    {
+      "name": "Sec 185(a)",
+      "code": "S16",
+      "active": true
+    },
+   {
+      "name": "Sec 185(b)",
+      "code": "S17",
+      "active": true
+    },
+   {
+      "name": "Sec 185(c)",
+      "code": "S18",
+      "active": true
+    },
+   {
+      "name": "Sec 185(d)",
+      "code": "S19",
+      "active": true
+    }
+  ]
+}

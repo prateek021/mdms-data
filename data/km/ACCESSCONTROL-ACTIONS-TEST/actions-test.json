@@ -1093,39 +1093,43 @@
       },
       {
          "id": 664,
-         "name": "createFundSource_Master",
-         "url": "/egf-master/fundsources/_create",
+         "name": "FundSource-Create",
+         "url": "/services/EGF/fundsource/new",
+         "parentModule": "",
          "displayName": "Create Fund Source",
-         "orderNumber": 1,
-         "parentModule": "238",
+         "orderNumber": 4,
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Fund.Create Fund Source",
+         "navigationURL": "services/EGF/fundsource/new"
       },
       {
          "id": 665,
-         "name": "updateFundSource_Master",
-         "url": "/egf-master/fundsources/_update",
+         "name": "FundSource-Update",
+         "url": "/services/EGF/fundsource/search/edit",
          "displayName": "Modify Fund Source",
-         "orderNumber": 2,
-         "parentModule": "238",
+         "orderNumber": 5,
+         "parentModule": "",
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
+         "path": "Finance.Masters.Fund.Update Fund Source",
+         "navigationURL": "services/EGF/fundsource/search/edit"
       },
       {
          "id": 666,
-         "name": "searchFundSource_Master",
-         "url": "/egf-master/fundsources/_search",
-         "displayName": "Search Fund Source",
-         "orderNumber": 3,
-         "parentModule": "238",
+         "name": "FundSource-View",
+         "url": "/services/EGF/fundsource/search/view",
+         "displayName": "View Fund Source",
+         "orderNumber": 6,
+         "parentModule": "",
          "enabled": true,
-         "serviceCode": "FundSource_Master",
+         "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
+         "path": "Finance.Masters.Fund.View Fund Source",
+         "navigationURL": "services/EGF/fundsource/search/view"
       },
       {
          "id": 667,
@@ -13446,20 +13450,6 @@
       "rightIcon": ""
    },
    {
-      "id": 3029,
-      "name": "Create",
-      "url": "url",
-      "parentModule": "",
-      "displayName": "Create",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "FinanceMaster",
-      "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.COA.Account.Create",
-      "navigationURL": "services/EGF/account/new"
-   },
-   {
       "id": 3035,
       "name": "Agency Master",
       "url": "url",
@@ -13573,7 +13563,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Self Assessment Entry",
-         "navigationURL": "pt-saf/apply"
+         "navigationURL": "pt-saf/search"
 		 
       },
       {
@@ -13583,7 +13573,7 @@
          "displayName": "Fetch and Update SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Fetch and Update SAF",
@@ -13592,15 +13582,15 @@
       },
       {
          "id": 3046,
-         "name": "Fetch and View SAF",
+         "name": "View SAF",
          "url": "url",
-         "displayName": "Fetch and View SAF",
+         "displayName": "View SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Fetch and View SAF",
+         "path": "Property Tax.UAA.View SAF",
          "navigationURL": "pt-saf/fetchViewSaf"
 		 
       },
@@ -13625,7 +13615,7 @@
          "displayName": "UAA Mobile/ID Updation for Suo-Moto SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA Mobile/ID Updation for Suo-Moto SAF",
