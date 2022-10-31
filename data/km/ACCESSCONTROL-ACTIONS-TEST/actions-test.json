@@ -5991,7 +5991,7 @@
          "serviceCode": "PGR",
          "code": "null",
          "path": "Complaints",
-         "navigationURL": "/digit-ui/citizen/pgr/complaints",
+         "navigationURL": "/pgr/pgr-home",
          "leftIcon": "custom:account-alert",
          "rightIcon": ""
       },
