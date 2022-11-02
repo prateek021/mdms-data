@@ -6020,7 +6020,7 @@
          "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
-         "navigationURL": "/digit-ui/citizen/",
+         "navigationURL": "/tradelicense-citizen/home",
          "path": "TradeLicense",
          "leftIcon": "places:business-center",
          "rightIcon": ""
