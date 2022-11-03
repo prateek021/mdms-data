@@ -4956,42 +4956,42 @@
          "name": "purchaseordercreate",
          "url": "/services/EGF/purchaseorder/newform",
          "displayName": "Create Purchase Order",
-         "orderNumber": 12,
+         "orderNumber": 6,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/newform",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.Create Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.Create Purchase Order"
       },
       {
          "id": 1726,
          "name": "purchaseorderview",
          "url": "/services/EGF/purchaseorder/search/view",
          "displayName": "View Purchase Order",
-         "orderNumber": 12,
+         "orderNumber": 7,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.View Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.View Purchase Order"
       },
       {
          "id": 1727,
          "name": "purchaseordermodify",
          "url": "/services/EGF/purchaseorder/search/edit",
          "displayName": "Modify Purchase Order",
-         "orderNumber": 13,
+         "orderNumber": 8,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.Modify Purchase Order"
       },
       {
          "id": 1728,
@@ -5038,42 +5038,42 @@
          "name": "workordercreate",
          "url": "/services/EGF/workorder/newform",
          "displayName": "Create Work Order",
-         "orderNumber": 13,
+         "orderNumber": 9,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/newform",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.Create Work Order"
+         "path": "Finance.Transactions.Work Order.Create Work Order"
       },
       {
          "id": 1732,
          "name": "workorderview",
          "url": "/services/EGF/workorder/search/view",
          "displayName": "View Work Order",
-         "orderNumber": 14,
+         "orderNumber": 10,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.View Work Order"
+         "path": "Finance.Transactions.Work Order.View Work Order"
       },
       {
          "id": 1733,
          "name": "workordermodify",
          "url": "/services/EGF/workorder/search/edit",
          "displayName": "Modify Work Order",
-         "orderNumber": 15,
+         "orderNumber": 11,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.Modify Work Order"
+         "path": "Finance.Transactions.Work Order.Modify Work Order"
       },
       {
          "id": 1734,
