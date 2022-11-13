@@ -13549,35 +13549,35 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "pt-mutation/propertySearch"
+         "navigationURL": "pt-saf/propertySearch?isView=true"
 		 
       },
       {
          "id": 3044,
-         "name": "Self Assessment Entry",
+         "name": "SAF",
          "url": "url",
-         "displayName": "Self Assessment Entry",
+         "displayName": "SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Self Assessment Entry",
-         "navigationURL": "pt-saf/search"
+         "path": "Property Tax.UAA.SAF",
+         "navigationURL": "pt-saf/propertySearch"
 		 
       },
       {
          "id": 3045,
-         "name": "Fetch and Update SAF",
+         "name": "Fetch SAF",
          "url": "url",
-         "displayName": "Fetch and Update SAF",
+         "displayName": "Fetch SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": false,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Fetch and Update SAF",
-         "navigationURL": "pt-saf/fetchViewSaf"
+         "path": "Property Tax.UAA.Fetch SAF",
+         "navigationURL": "pt-saf/safSearch"
 		 
       },
       {
@@ -13591,7 +13591,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.View SAF",
-         "navigationURL": "pt-saf/fetchViewSaf"
+         "navigationURL": "pt-saf/safSearch"
 		 
       },
       {
@@ -13703,7 +13703,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Capture Proposed AV",
-         "navigationURL": "mdms/PropertyTax/Inspection/CaptureProposedAV"
+         "navigationURL": "pt-inspection/capturedProposedAV"
 		 
       },
       {
@@ -13750,30 +13750,30 @@
       },
       {
          "id": 3058,
-         "name": "Hearing Notice Search",
+         "name": "Hearing Notice",
          "url": "url",
-         "displayName": "Hearing Notice Search",
+         "displayName": "Hearing Notice",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.Hearing Notice Search",
-         "navigationURL": "pt-mutation/hearingNoticeSearch"
+         "path": "Property Tax.Hearing.Hearing Notice",
+         "navigationURL": "pt-hearing/hearingNoticeSearch"
 		 
       },
       {
          "id": 3059,
-         "name": "Rate Card Entry",
+         "name": "Rate Card",
          "url": "url",
-         "displayName": "Rate Card Entry",
+         "displayName": "Rate Card",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.Rate Card Entry",
-         "navigationURL": "pt-mutation/rateCard"
+         "path": "Property Tax.Hearing.Rate Card",
+         "navigationURL": "pt-hearing/rateCardSearch"
 		 
       },
       {
@@ -13792,16 +13792,16 @@
       },
       {
          "id": 3061,
-         "name": "FS Bill Generation",
+         "name": "FS Bill",
          "url": "url",
-         "displayName": "FS Bill Generation",
+         "displayName": "FS Bill",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.FS Bill Generation",
-         "navigationURL": "mdms/PropertyTax/Hearing/FSBillGeneration"
+         "path": "Property Tax.Hearing.FS Bill",
+         "navigationURL": "pt-hearing/fsBillSearch"
 		 
       },
       {
@@ -13995,6 +13995,49 @@
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3077,
+         "name": "GR/IR Inspection",
+         "url": "url",
+         "displayName": "GR/IR Inspection",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.GR/IR Inspection",
+         "navigationURL": "pt-inspection/capturedProposedAV"
+		 
+      },
+      {
+         "id": 3078,
+         "name": "Assessee Response Capture",
+         "url": "url",
+         "displayName": "Assessee Response Capture",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Assessee Response Capture",
+         "navigationURL": "pt-inspection/responseCaptureScreen"
+		 
+      },
+      {
+         "id": 3079,
+         "name": "Search Draft Assessee",
+         "url": "url",
+         "displayName": "Search Draft Assessee",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Assessee Manitenance.Search Draft Assessee",
+         "navigationURL": "pt-saf/propertySearchTemp"
+		 
       }
+      
    ]
 }
