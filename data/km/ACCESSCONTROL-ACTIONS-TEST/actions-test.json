@@ -14006,7 +14006,7 @@
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Mutation.GR/IR Inspection",
+         "path": "Property Tax.Inspection.GR/IR Inspection",
          "navigationURL": "pt-inspection/capturedProposedAV"
 		 
       },
