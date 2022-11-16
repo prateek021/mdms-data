@@ -1097,12 +1097,12 @@
          "url": "/services/EGF/fundsource/new",
          "parentModule": "",
          "displayName": "Create Fund Source",
-         "orderNumber": 4,
+         "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Fund.Create Fund Source",
+         "path": "Finance.Masters.Fund Source.Create Fund Source",
          "navigationURL": "services/EGF/fundsource/new"
       },
       {
@@ -1110,12 +1110,12 @@
          "name": "FundSource-Update",
          "url": "/services/EGF/fundsource/search/edit",
          "displayName": "Modify Fund Source",
-         "orderNumber": 5,
+         "orderNumber": 3,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Finance.Masters.Fund.Update Fund Source",
+         "path": "Finance.Masters.Fund Source.Update Fund Source",
          "navigationURL": "services/EGF/fundsource/search/edit"
       },
       {
@@ -1123,12 +1123,12 @@
          "name": "FundSource-View",
          "url": "/services/EGF/fundsource/search/view",
          "displayName": "View Fund Source",
-         "orderNumber": 6,
+         "orderNumber": 2,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
-         "path": "Finance.Masters.Fund.View Fund Source",
+         "path": "Finance.Masters.Fund Source.View Fund Source",
          "navigationURL": "services/EGF/fundsource/search/view"
       },
       {
@@ -4956,42 +4956,42 @@
          "name": "purchaseordercreate",
          "url": "/services/EGF/purchaseorder/newform",
          "displayName": "Create Purchase Order",
-         "orderNumber": 12,
+         "orderNumber": 6,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/newform",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.Create Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.Create Purchase Order"
       },
       {
          "id": 1726,
          "name": "purchaseorderview",
          "url": "/services/EGF/purchaseorder/search/view",
          "displayName": "View Purchase Order",
-         "orderNumber": 12,
+         "orderNumber": 7,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.View Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.View Purchase Order"
       },
       {
          "id": 1727,
          "name": "purchaseordermodify",
          "url": "/services/EGF/purchaseorder/search/edit",
          "displayName": "Modify Purchase Order",
-         "orderNumber": 13,
+         "orderNumber": 8,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
+         "path": "Finance.Transactions.Purchase Order.Modify Purchase Order"
       },
       {
          "id": 1728,
@@ -5038,42 +5038,42 @@
          "name": "workordercreate",
          "url": "/services/EGF/workorder/newform",
          "displayName": "Create Work Order",
-         "orderNumber": 13,
+         "orderNumber": 9,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/newform",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.Create Work Order"
+         "path": "Finance.Transactions.Work Order.Create Work Order"
       },
       {
          "id": 1732,
          "name": "workorderview",
          "url": "/services/EGF/workorder/search/view",
          "displayName": "View Work Order",
-         "orderNumber": 14,
+         "orderNumber": 10,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.View Work Order"
+         "path": "Finance.Transactions.Work Order.View Work Order"
       },
       {
          "id": 1733,
          "name": "workordermodify",
          "url": "/services/EGF/workorder/search/edit",
          "displayName": "Modify Work Order",
-         "orderNumber": 15,
+         "orderNumber": 11,
          "parentModule": "",
          "enabled": true,
-         "serviceCode": "FinanceMaster",
+         "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Work Order.Modify Work Order"
+         "path": "Finance.Transactions.Work Order.Modify Work Order"
       },
       {
          "id": 1734,
@@ -13549,35 +13549,35 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "pt-mutation/propertySearch"
+         "navigationURL": "pt-saf/propertySearch?isView=true"
 		 
       },
       {
          "id": 3044,
-         "name": "Self Assessment Entry",
+         "name": "SAF",
          "url": "url",
-         "displayName": "Self Assessment Entry",
+         "displayName": "SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Self Assessment Entry",
-         "navigationURL": "pt-saf/search"
+         "path": "Property Tax.UAA.SAF",
+         "navigationURL": "pt-saf/propertySearch"
 		 
       },
       {
          "id": 3045,
-         "name": "Fetch and Update SAF",
+         "name": "Fetch SAF",
          "url": "url",
-         "displayName": "Fetch and Update SAF",
+         "displayName": "Fetch SAF",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": false,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.UAA.Fetch and Update SAF",
-         "navigationURL": "pt-saf/fetchViewSaf"
+         "path": "Property Tax.UAA.Fetch SAF",
+         "navigationURL": "pt-saf/safSearch"
 		 
       },
       {
@@ -13591,7 +13591,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.View SAF",
-         "navigationURL": "pt-saf/fetchViewSaf"
+         "navigationURL": "pt-saf/safSearch"
 		 
       },
       {
@@ -13703,7 +13703,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Capture Proposed AV",
-         "navigationURL": "mdms/PropertyTax/Inspection/CaptureProposedAV"
+         "navigationURL": "pt-inspection/capturedProposedAV"
 		 
       },
       {
@@ -13750,30 +13750,30 @@
       },
       {
          "id": 3058,
-         "name": "Hearing Notice Search",
+         "name": "Hearing Notice",
          "url": "url",
-         "displayName": "Hearing Notice Search",
+         "displayName": "Hearing Notice",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.Hearing Notice Search",
-         "navigationURL": "pt-mutation/hearingNoticeSearch"
+         "path": "Property Tax.Hearing.Hearing Notice",
+         "navigationURL": "pt-hearing/hearingNoticeSearch"
 		 
       },
       {
          "id": 3059,
-         "name": "Rate Card Entry",
+         "name": "Rate Card",
          "url": "url",
-         "displayName": "Rate Card Entry",
+         "displayName": "Rate Card",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.Rate Card Entry",
-         "navigationURL": "pt-mutation/rateCard"
+         "path": "Property Tax.Hearing.Rate Card",
+         "navigationURL": "pt-hearing/rateCardSearch"
 		 
       },
       {
@@ -13792,16 +13792,16 @@
       },
       {
          "id": 3061,
-         "name": "FS Bill Generation",
+         "name": "FS Bill",
          "url": "url",
-         "displayName": "FS Bill Generation",
+         "displayName": "FS Bill",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.FS Bill Generation",
-         "navigationURL": "mdms/PropertyTax/Hearing/FSBillGeneration"
+         "path": "Property Tax.Hearing.FS Bill",
+         "navigationURL": "pt-hearing/fsBillSearch"
 		 
       },
       {
@@ -13995,36 +13995,7 @@
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
-      },
-      {
-         "id": 3080,
-         "name": "Remission",
-         "url": "url",
-         "displayName": "Remission",
-         "orderNumber": 13,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "Parking",
-         "code": "null",
-         "navigationURL": "parking-citizen/remission",
-         "path": "Parking.Masters.Remission",
-         "leftIcon": "social:group-add",
-         "rightIcon": ""
-      },
-      {
-         "id": 3081,
-         "name": "Permission",
-         "url": "url",
-         "displayName": "Permission",
-         "orderNumber": 13,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "Parking",
-         "code": "null",
-         "navigationURL": "parking-citizen/permission",
-         "path": "Parking.Permission",
-         "leftIcon": "social:group-add",
-         "rightIcon": ""
       }
+      
    ]
 }
