@@ -13995,6 +13995,36 @@
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3080,
+         "name": "Remission",
+         "url": "url",
+         "displayName": "Remission",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/remission",
+         "path": "Parking.Masters.Remission",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
+      },
+      {
+         "id": 3081,
+         "name": "Permission",
+         "url": "url",
+         "displayName": "Permission",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/permission",
+         "path": "Parking.Permission",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
       }
    ]
 }
