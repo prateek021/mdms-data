@@ -25520,6 +25520,12 @@
       "actionid": 3081,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }
