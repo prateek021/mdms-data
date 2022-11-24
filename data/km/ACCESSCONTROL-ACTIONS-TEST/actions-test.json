@@ -14067,6 +14067,21 @@
          "path": "Parking.Permission",
          "leftIcon": "social:group-add",
          "rightIcon": ""
+      },
+      {
+         "id": 3082,
+         "name": "All Parking Requests",
+         "url": "url",
+         "displayName": "All Parking Requests",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/allParkingPermissionRequest",
+         "path": "Parking.All Parking Requests",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
       }
       
    ]
