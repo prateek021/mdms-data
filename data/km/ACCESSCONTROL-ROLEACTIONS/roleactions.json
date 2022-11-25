@@ -24992,6 +24992,12 @@
       "actioncode": "",
       "tenantId": "km"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3041,
+      "actioncode": "",
+      "tenantId": "km"
+    },
 	{
       "rolecode": "PT_TEST_INSPECTOR",
       "actionid": 3042,
@@ -25005,7 +25011,19 @@
       "tenantId": "km"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3043,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
       "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3044,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 3044,
       "actioncode": "",
       "tenantId": "km"
@@ -25017,7 +25035,19 @@
       "tenantId": "km"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 3045,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
       "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3046,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 3046,
       "actioncode": "",
       "tenantId": "km"
@@ -25178,8 +25208,20 @@
       "actioncode": "",
       "tenantId": "km"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3072,
+      "actioncode": "",
+      "tenantId": "km"
+    },
 	{
       "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3073,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 3073,
       "actioncode": "",
       "tenantId": "km"
@@ -25190,8 +25232,20 @@
       "actioncode": "",
       "tenantId": "km"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3074,
+      "actioncode": "",
+      "tenantId": "km"
+    },
 	{
       "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3075,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 3075,
       "actioncode": "",
       "tenantId": "km"
@@ -25202,6 +25256,43 @@
       "actioncode": "",
       "tenantId": "km"
     },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+
 	{
       "rolecode": "SUPERUSER",
       "actionid": 3041,
@@ -25415,6 +25506,24 @@
 	{
       "rolecode": "SUPERUSER",
       "actionid": 3076,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3080,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3081,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3082,
       "actioncode": "",
       "tenantId": "km"
     }
