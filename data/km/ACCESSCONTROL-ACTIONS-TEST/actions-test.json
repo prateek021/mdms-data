@@ -3713,7 +3713,7 @@
          "serviceCode": "FinanceGeneral",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.View Vouchers",
+         "path": "Finance.Transactions.Bills Accounting.View Voucher",
          "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
       },
       {
@@ -5210,7 +5210,7 @@
          "parentModule": "EGF",
          "displayName": "Contractor Bill",
          "orderNumber": 2,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -5224,7 +5224,7 @@
          "parentModule": "EGF",
          "displayName": "Supplier Bill",
          "orderNumber": 3,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
