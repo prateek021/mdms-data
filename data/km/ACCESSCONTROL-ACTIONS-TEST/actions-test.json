@@ -14139,7 +14139,7 @@
          "serviceCode": "FinanceGeneral",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Create CRN",
+         "path": "Finance.Transactions.Bills Accounting.CRN.Create CRN",
          "navigationURL": "services/EGF/crn/new"
       },
       {
@@ -14153,7 +14153,7 @@
          "serviceCode": "FinanceGeneral",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.Modify CRN",
+         "path": "Finance.Transactions.Bills Accounting.CRN.Modify CRN",
          "navigationURL": "services/EGF/crn/updatecrn"
       },
       {
@@ -14167,7 +14167,7 @@
          "serviceCode": "FinanceGeneral",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Bills Accounting.View CRN",
+         "path": "Finance.Transactions.Bills Accounting.CRN.View CRN",
          "navigationURL": "services/EGF/crn/search"
       }	   
       
