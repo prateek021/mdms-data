@@ -25473,7 +25473,7 @@
       "actioncode": "",
       "tenantId": "km"
     },
-	{
+    {
       "rolecode": "SUPERUSER",
       "actionid": 3071,
       "actioncode": "",
@@ -25544,6 +25544,42 @@
       "actionid": 3085,
       "actioncode": "",
       "tenantId": "km"
-    }
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3086,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3086,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3087,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3087,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "km"
+    }  
   ]
 }
