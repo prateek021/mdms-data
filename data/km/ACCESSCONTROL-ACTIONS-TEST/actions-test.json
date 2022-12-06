@@ -3401,7 +3401,7 @@
          "url": "/services/EGF/expensebill/newform",
          "parentModule": "EGF",
          "displayName": "Expense Bill",
-         "orderNumber": 1,
+         "orderNumber": 4,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
@@ -3414,7 +3414,7 @@
          "url": "/services/EGF/voucher/billVoucher-newForm.action",
          "parentModule": "",
          "displayName": "Voucher from bill",
-         "orderNumber": 4,
+         "orderNumber": 6,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
@@ -3708,7 +3708,7 @@
          "url": "/services/EGF/voucher/voucherSearch-beforesearch.action",
          "parentModule": "",
          "displayName": "View Voucher",
-         "orderNumber": 5,
+         "orderNumber": 7,
          "enabled": true,
          "serviceCode": "FinanceGeneral",
          "code": "null",
@@ -14127,7 +14127,49 @@
          "path": "Parking.Waiver",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }
+      },
+      {
+         "id": 3086,
+         "name": "Create CRN",
+         "url": "/services/EGF/crn/new",
+         "parentModule": "",
+         "displayName": "Create CRN",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.Create CRN",
+         "navigationURL": "services/EGF/crn/new"
+      },
+      {
+         "id": 3087,
+         "name": "Modify CRN",
+         "url": "/services/EGF/crn/updatecrn",
+         "parentModule": "",
+         "displayName": "Modify CRN",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.Modify CRN",
+         "navigationURL": "services/EGF/crn/updatecrn"
+      },
+      {
+         "id": 3088,
+         "name": "View CRN",
+         "url": "/services/EGF/crn/search",
+         "parentModule": "",
+         "displayName": "View CRN",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.View CRN",
+         "navigationURL": "services/EGF/crn/search"
+      }	   
       
    ]
 }
