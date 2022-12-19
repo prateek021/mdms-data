@@ -25281,6 +25281,12 @@
       "tenantId": "km"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 3079,
       "actioncode": "",
@@ -25578,6 +25584,24 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3090,
+      "actioncode": "",
+      "tenantId": "km"
+    }   ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3091,
       "actioncode": "",
       "tenantId": "km"
     }  
