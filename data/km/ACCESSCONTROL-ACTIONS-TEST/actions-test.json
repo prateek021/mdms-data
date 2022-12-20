@@ -13745,7 +13745,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Entry",
-         "navigationURL": "mdms/PropertyTax/Hearing/HearingNoticeEntry"
+         "navigationURL": "mdms/PropertyTax/Hearing/hearingNoticeEntry"
 		 
       },
       {
@@ -13760,6 +13760,20 @@
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice",
          "navigationURL": "pt-hearing/hearingNoticeSearch"
+		 
+      },
+      {
+         "id": 3090,
+         "name": "Hearing Notice Cancellation",
+         "url": "url",
+         "displayName": "Hearing Notice Cancellation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Hearing Notice Cancellation",
+         "navigationURL": "pt-hearing/hearingNoticeCancellation"
 		 
       },
       {
@@ -13787,7 +13801,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card Cancellation",
-         "navigationURL": "mdms/PropertyTax/Hearing/RateCardCancellation"
+         "navigationURL": "pt-hearing/rateCardCancellation"
 		 
       },
       {
@@ -13997,6 +14011,20 @@
          "path": ""
       },
       {
+         "id": 3091,
+         "name": "Approval Slip Print",
+         "url": "url",
+         "displayName": "Approval Slip Print",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Approval Slip Print",
+         "navigationURL": "pt-hearing/approvalSlipPrint"
+		 
+      },
+      {
          "id": 3077,
          "name": "GR/IR Inspection",
          "url": "url",
@@ -14169,7 +14197,21 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Bills Accounting.CRN.View CRN",
          "navigationURL": "services/EGF/crn/search"
-      }	   
+      },
+      {
+         "id": 3089,
+         "name": "Notice Search",
+         "url": "url",
+         "displayName": "Notice Search",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Notice Search",
+         "navigationURL": "pt-inspection/noticeManagement"
+		 
+      }  
       
    ]
 }
