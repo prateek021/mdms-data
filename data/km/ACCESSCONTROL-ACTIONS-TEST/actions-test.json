@@ -14020,8 +14020,8 @@
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Inspection.Approval Slip Print",
-         "navigationURL": "pt-inspection/approvalSlipPrint"
+         "path": "Property Tax.Hearing.Approval Slip Print",
+         "navigationURL": "pt-hearing/approvalSlipPrint"
 		 
       },
       {
