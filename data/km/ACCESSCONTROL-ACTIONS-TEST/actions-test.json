@@ -14211,7 +14211,37 @@
          "path": "Property Tax.Inspection.Notice Search",
          "navigationURL": "pt-inspection/noticeManagement"
 		 
-      }  
+      },
+      {
+         "id": 3093,
+         "name": "Tax Exemption",
+         "url": "url",
+         "displayName": "Tax Exemption",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "path": "Parking.Tax Exemption",
+         "leftIcon": "action:assignment",
+         "navigationURL": "parking-citizen/taxExemption"
+		 
+      },
+      {
+      "id": 3094,
+      "name": "Agency Allocation",
+      "url": "url",
+      "displayName": "Agency Allocation",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Parking",
+      "code": "null",
+      "navigationURL": "parking-citizen/agencyAllocation",
+      "path": "Parking.Transcation.Allocation.Agency Allocation",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+     }	  
       
    ]
 }
