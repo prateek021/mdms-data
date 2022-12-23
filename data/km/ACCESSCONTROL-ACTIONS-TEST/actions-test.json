@@ -3401,7 +3401,7 @@
          "url": "/services/EGF/expensebill/newform",
          "parentModule": "EGF",
          "displayName": "Expense Bill",
-         "orderNumber": 1,
+         "orderNumber": 4,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
@@ -3414,7 +3414,7 @@
          "url": "/services/EGF/voucher/billVoucher-newForm.action",
          "parentModule": "",
          "displayName": "Voucher from bill",
-         "orderNumber": 4,
+         "orderNumber": 6,
          "enabled": true,
          "serviceCode": "FinanceBill",
          "code": "null",
@@ -3708,12 +3708,12 @@
          "url": "/services/EGF/voucher/voucherSearch-beforesearch.action",
          "parentModule": "",
          "displayName": "View Voucher",
-         "orderNumber": 5,
+         "orderNumber": 7,
          "enabled": true,
          "serviceCode": "FinanceGeneral",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.View Vouchers",
+         "path": "Finance.Transactions.Bills Accounting.View Voucher",
          "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
       },
       {
@@ -4143,7 +4143,7 @@
          "parentModule": "",
          "displayName": "Create Supplier",
          "orderNumber": 1,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -4157,7 +4157,7 @@
          "parentModule": "",
          "displayName": "View Supplier",
          "orderNumber": 2,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -4171,7 +4171,7 @@
          "parentModule": "",
          "displayName": "Modify Supplier",
          "orderNumber": 3,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -4958,7 +4958,7 @@
          "displayName": "Create Purchase Order",
          "orderNumber": 6,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/newform",
          "code": "null",
@@ -4972,7 +4972,7 @@
          "displayName": "View Purchase Order",
          "orderNumber": 7,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/view",
          "code": "null",
@@ -4986,7 +4986,7 @@
          "displayName": "Modify Purchase Order",
          "orderNumber": 8,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/purchaseorder/search/edit",
          "code": "null",
@@ -5038,42 +5038,42 @@
          "name": "workordercreate",
          "url": "/services/EGF/workorder/newform",
          "displayName": "Create Work Order",
-         "orderNumber": 9,
+         "orderNumber": 1,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/newform",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Work Order.Create Work Order"
+         "path": "Finance.Transactions.Order Master.Create Work Order"
       },
       {
          "id": 1732,
          "name": "workorderview",
          "url": "/services/EGF/workorder/search/view",
          "displayName": "View Work Order",
-         "orderNumber": 10,
+         "orderNumber": 2,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Work Order.View Work Order"
+         "path": "Finance.Transactions.Order Master.View Work Order"
       },
       {
          "id": 1733,
          "name": "workordermodify",
          "url": "/services/EGF/workorder/search/edit",
          "displayName": "Modify Work Order",
-         "orderNumber": 11,
+         "orderNumber": 3,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceBill",
          "navigationURL": "services/EGF/workorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Work Order.Modify Work Order"
+         "path": "Finance.Transactions.Order Master.Modify Work Order"
       },
       {
          "id": 1734,
@@ -5210,7 +5210,7 @@
          "parentModule": "EGF",
          "displayName": "Contractor Bill",
          "orderNumber": 2,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -5224,7 +5224,7 @@
          "parentModule": "EGF",
          "displayName": "Supplier Bill",
          "orderNumber": 3,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "FinanceBill",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -13745,7 +13745,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Entry",
-         "navigationURL": "mdms/PropertyTax/Hearing/HearingNoticeEntry"
+         "navigationURL": "mdms/PropertyTax/Hearing/hearingNoticeEntry"
 		 
       },
       {
@@ -13760,6 +13760,20 @@
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice",
          "navigationURL": "pt-hearing/hearingNoticeSearch"
+		 
+      },
+      {
+         "id": 3090,
+         "name": "Hearing Notice Cancellation",
+         "url": "url",
+         "displayName": "Hearing Notice Cancellation",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Hearing Notice Cancellation",
+         "navigationURL": "pt-hearing/hearingNoticeCancellation"
 		 
       },
       {
@@ -13787,7 +13801,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card Cancellation",
-         "navigationURL": "mdms/PropertyTax/Hearing/RateCardCancellation"
+         "navigationURL": "pt-hearing/rateCardCancellation"
 		 
       },
       {
@@ -13997,6 +14011,20 @@
          "path": ""
       },
       {
+         "id": 3091,
+         "name": "Approval Slip Print",
+         "url": "url",
+         "displayName": "Approval Slip Print",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Hearing.Approval Slip Print",
+         "navigationURL": "pt-hearing/approvalSlipPrint"
+		 
+      },
+      {
          "id": 3077,
          "name": "GR/IR Inspection",
          "url": "url",
@@ -14049,7 +14077,7 @@
          "serviceCode": "Parking",
          "code": "null",
          "navigationURL": "parking-citizen/remission",
-         "path": "Parking.Masters.Remission",
+         "path": "Parking.Remission",
          "leftIcon": "social:group-add",
          "rightIcon": ""
       },
@@ -14082,7 +14110,138 @@
          "path": "Parking.All Parking Requests",
          "leftIcon": "action:assignment",
          "rightIcon": ""
-      }
+      },
+	  {
+         "id": 3083,
+         "name": "Demand Generation",
+         "url": "url",
+         "displayName": "Demand Generation",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/demandgeneration",
+         "path": "Parking.Demand Generation",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3084,
+         "name": "Waiver",
+         "url": "url",
+         "displayName": "Waiver",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/waiver",
+         "path": "Parking.Waiver",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3085,
+         "name": "Waiver",
+         "url": "url",
+         "displayName": "Waiver",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/waiver",
+         "path": "Parking.Waiver",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3086,
+         "name": "Create CRN",
+         "url": "/services/EGF/crn/new",
+         "parentModule": "",
+         "displayName": "Create CRN",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.CRN.Create CRN",
+         "navigationURL": "services/EGF/crn/new"
+      },
+      {
+         "id": 3087,
+         "name": "Modify CRN",
+         "url": "/services/EGF/crn/updatecrn",
+         "parentModule": "",
+         "displayName": "Modify CRN",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.CRN.Modify CRN",
+         "navigationURL": "services/EGF/crn/updatecrn"
+      },
+      {
+         "id": 3088,
+         "name": "View CRN",
+         "url": "/services/EGF/crn/search",
+         "parentModule": "",
+         "displayName": "View CRN",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceGeneral",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Transactions.Bills Accounting.CRN.View CRN",
+         "navigationURL": "services/EGF/crn/search"
+      },
+      {
+         "id": 3089,
+         "name": "Notice Search",
+         "url": "url",
+         "displayName": "Notice Search",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Inspection.Notice Search",
+         "navigationURL": "pt-inspection/noticeManagement"
+		 
+      },
+      {
+         "id": 3093,
+         "name": "Tax Exemption",
+         "url": "url",
+         "displayName": "Tax Exemption",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "path": "Parking.Tax Exemption",
+         "leftIcon": "action:assignment",
+         "navigationURL": "parking-citizen/taxExemption"
+		 
+      },
+      {
+      "id": 3094,
+      "name": "Agency Allocation",
+      "url": "url",
+      "displayName": "Agency Allocation",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Parking",
+      "code": "null",
+      "navigationURL": "parking-citizen/agencyAllocation",
+      "path": "Parking.Transcation.Allocation.Agency Allocation",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+     }	  
       
    ]
 }

@@ -25281,6 +25281,12 @@
       "tenantId": "km"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 3079,
       "actioncode": "",
@@ -25473,7 +25479,7 @@
       "actioncode": "",
       "tenantId": "km"
     },
-	{
+    {
       "rolecode": "SUPERUSER",
       "actionid": 3071,
       "actioncode": "",
@@ -25526,6 +25532,96 @@
       "actionid": 3082,
       "actioncode": "",
       "tenantId": "km"
-    }
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3083,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3086,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3086,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3087,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3087,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3090,
+      "actioncode": "",
+      "tenantId": "km"
+    }   ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3091,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3093,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3093,
+      "actioncode": "",
+      "tenantId": "km"
+    } ,
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3094,
+      "actioncode": "",
+      "tenantId": "km"
+    }  	 		
   ]
 }
