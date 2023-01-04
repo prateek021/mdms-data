@@ -13435,21 +13435,6 @@
       "rightIcon": ""
    },
    {
-      "id": 3028,
-      "name": "Rate Master",
-      "url": "url",
-      "displayName": "Rate Master",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "Parking",
-      "code": "null",
-      "navigationURL": "parking-citizen/rateMaster",
-      "path": "Parking.Masters.Rate Master",
-      "leftIcon": "social:group-add",
-      "rightIcon": ""
-   },
-   {
       "id": 3035,
       "name": "Agency Master",
       "url": "url",
