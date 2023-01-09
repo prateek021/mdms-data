@@ -25688,6 +25688,18 @@
       "actionid": 4000,
       "actioncode": "",
       "tenantId": "km"
-    },	
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "km"
+    },		
   ]
 }
