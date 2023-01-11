@@ -14409,8 +14409,8 @@
 	{
 		"id": 4007,
 		"name": "Web Portal",
-		"navigationURL": "/",
-		"url": "/",
+		"navigationURL": "../",
+		"url": "../",
 		"parentModule": "EGF",
 		"displayName": "Web Portal",
 		"orderNumber": 15,
