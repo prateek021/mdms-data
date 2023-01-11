@@ -14405,6 +14405,20 @@
       "path": "Pet Registartion",
       "leftIcon": "social:group-add",
       "rightIcon": ""
-    }		
+    },
+	{
+		"id": 4007,
+		"name": "Web Portal",
+		"navigationURL": "/",
+		"url": "/",
+		"parentModule": "EGF",
+		"displayName": "Web Portal",
+		"orderNumber": 15,
+		"enabled": true,
+		"serviceCode": "Web Portal",
+		"code": "null",
+		"leftIcon": "editor:insert-chart",
+		"path": "Web Portal"
+	}
    ]
 }
