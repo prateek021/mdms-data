@@ -14330,6 +14330,81 @@
 		"code": "null",
 		"leftIcon": "editor:insert-chart",
 		"path": "Finance.Transactions.Bills Accounting.EMD Bill"
-	}      
+	},
+    {
+      "id": 4002,
+      "name": "Agency Allocation",
+      "url": "url",
+      "displayName": "Agency Allocation",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Advertising",
+      "code": "null",
+      "navigationURL": "advertising-citizen/agencyAllocation",
+      "path": "Advertising.Agency Allocation",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+    },
+	{
+      "id": 4003,
+      "name": "Agency Allocation",
+      "url": "url",
+      "displayName": "Agency Allocation",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Basti",
+      "code": "null",
+      "navigationURL": "basti-citizen/agencyAllocation",
+      "path": "Basti.Agency Allocation",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+    },
+    {
+      "id": 4004,
+      "name": "Agency Master",
+      "url": "url",
+      "displayName": "Agency Master",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Basti",
+      "code": "null",
+      "navigationURL": "basti-citizen/agencyMaster",
+      "path": "Basti.Masters.Agency Master",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+    },
+    {
+      "id": 4005,
+      "name": "Contract Info",
+      "url": "url",
+      "displayName": "Contract Info",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "Basti",
+      "code": "null",
+      "navigationURL": "basti-citizen/contractInfo",
+      "path": "Basti.Masters.Contract Info",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+    },
+    {
+      "id": 4006,
+      "name": "Pet Registartion",
+      "url": "url",
+      "displayName": "Pet Registartion",
+      "orderNumber": 13,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "OPMS",
+      "code": "null",
+      "navigationURL": "opms-citizen/home",
+      "path": "Pet Registartion",
+      "leftIcon": "social:group-add",
+      "rightIcon": ""
+    }		
    ]
 }
