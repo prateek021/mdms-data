@@ -14451,7 +14451,7 @@
 	{
 		"id": 4010,
 		"name": "ETA",
-		"navigationURL": "",
+		"navigationURL": "eta",
 		"url": "https://kmcdev.ddns.net/eta",
 		"parentModule": "ETA",
 		"displayName": "ETA",
