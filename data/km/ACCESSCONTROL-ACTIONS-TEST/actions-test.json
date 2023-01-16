@@ -3784,7 +3784,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Fund.Create Fund",
-         "navigationURL": "services/EGF/fund/new"
+         "navigationURL": "employee/services/EGF/fund/new"
       },
       {
          "id": 1637,
@@ -14447,6 +14447,34 @@
 		"code": "null",
 		"leftIcon": "editor:collections",
 		"path": "Complaints.Close Complaints"
+	},
+	{
+		"id": 4010,
+		"name": "ETA",
+		"navigationURL": "eta",
+		"url": "url",
+		"parentModule": "ETA",
+		"displayName": "ETA",
+		"orderNumber": 1,
+		"enabled": true,
+		"serviceCode": "ETA",
+		"code": "null",
+		"leftIcon": "editor:collections",
+		"path": "ETA"
+	},
+	{
+		"id": 4011,
+		"name": "Tender Details",
+		"navigationURL": "tender-details",
+		"url": "url",
+		"parentModule": "Tender Details",
+		"displayName": "Tender Details",
+		"orderNumber": 1,
+		"enabled": true,
+		"serviceCode": "Tender Details",
+		"code": "null",
+		"leftIcon": "editor:collections",
+		"path": "Tender Details"
 	}
    ]
 }

@@ -25743,11 +25743,47 @@
       "actioncode": "",
       "tenantId": "km"
     },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 4008,
+      "actioncode": "",
+      "tenantId": "km"
+    },
     {
       "rolecode": "SUPERUSER",
       "actionid": 4009,
       "actioncode": "",
       "tenantId": "km"
-    }			
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 4009,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 4010,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4010,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 4011,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4011,
+      "actioncode": "",
+      "tenantId": "km"
+    }
   ]
 }
