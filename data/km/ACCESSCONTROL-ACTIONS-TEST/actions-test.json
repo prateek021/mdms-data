@@ -14419,6 +14419,34 @@
 		"code": "null",
 		"leftIcon": "editor:insert-chart",
 		"path": "Web Portal"
+	},
+	{
+		"id": 4008,
+		"name": "Open Complaints",
+		"navigationURL": "all-complaints",
+		"url": "url",
+		"parentModule": "Complaints",
+		"displayName": "Open Complaints",
+		"orderNumber": 15,
+		"enabled": true,
+		"serviceCode": "Complaints",
+		"code": "null",
+		"leftIcon": "editor:collections",
+		"path": "Complaints.Open Complaints"
+	},
+	{
+		"id": 4009,
+		"name": "Close Complaints",
+		"navigationURL": "closed-complaints",
+		"url": "url",
+		"parentModule": "Complaints",
+		"displayName": "Close Complaints",
+		"orderNumber": 15,
+		"enabled": true,
+		"serviceCode": "Complaints",
+		"code": "null",
+		"leftIcon": "editor:collections",
+		"path": "Complaints.Close Complaints"
 	}
    ]
 }
