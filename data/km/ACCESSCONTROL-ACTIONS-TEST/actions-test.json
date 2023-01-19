@@ -14486,9 +14486,23 @@
          "enabled": true,
          "serviceCode": "HR",
          "code": "null",
-         "navigationURL": "/hrms/",
+         "navigationURL": "/hrms",
          "path": "HRMS.HR",
          "leftIcon": "social:people"
-    }
+    },
+	{
+		"id": 4013,
+		"name": "TPS",
+		"navigationURL": "/tps/fundsource/new",
+		"url": "url",
+		"parentModule": "TPS",
+		"displayName": "TPS",
+		"orderNumber": 1,
+		"enabled": true,
+		"serviceCode": "TPS",
+		"code": "null",
+		"leftIcon": "editor:collections",
+		"path": "TPS.Create Fund Source"
+	}
    ]
 }
