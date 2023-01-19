@@ -25784,6 +25784,12 @@
       "actionid": 4011,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4012,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }

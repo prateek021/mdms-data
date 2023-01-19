@@ -14475,6 +14475,20 @@
 		"code": "null",
 		"leftIcon": "editor:collections",
 		"path": "Tender Details"
-	}
+	},
+    {
+         "id": 4012,
+         "name": "HR",
+         "url": "url",
+         "displayName": "HR",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "HR",
+         "code": "null",
+         "navigationURL": "/hrms/",
+         "path": "HRMS.HR",
+         "leftIcon": "social:people"
+    }
    ]
 }
