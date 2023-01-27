@@ -5036,13 +5036,13 @@
       {
          "id": 1731,
          "name": "workordercreate",
-         "url": "/services/EGF/workorder/newform",
+         "url": "/services/EGF/workorder/newformOnline",
          "displayName": "Create Work Order",
          "orderNumber": 1,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceBill",
-         "navigationURL": "services/EGF/workorder/newform",
+         "navigationURL": "services/EGF/workorder/newformOnline",
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Order Master.Create Work Order"
@@ -14275,14 +14275,14 @@
 	{
 		"id": 3098,
 		"name": "Create Tender",
-		"url": "services/EGF/tender/new",
+		"url": "services/EGF/tender/newOnline",
 		"displayName": "Create Tender",
 		"orderNumber": 14,
 		"parentModule": "",
 		"enabled": true,
 		"serviceCode": "Engineering",
 		"code": "null",
-		"navigationURL": "services/EGF/tender/new",
+		"navigationURL": "services/EGF/tender/newOnline",
 		"path": "Engineering.Transaction.Tender.Create Tender",
 		"leftIcon": "",
 		"rightIcon": ""
