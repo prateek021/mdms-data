@@ -5036,13 +5036,13 @@
       {
          "id": 1731,
          "name": "workordercreate",
-         "url": "/services/EGF/workorder/newform",
+         "url": "/services/EGF/workorder/newformOnline",
          "displayName": "Create Work Order",
          "orderNumber": 9,
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceBill",
-         "navigationURL": "services/EGF/workorder/newform",
+         "navigationURL": "services/EGF/workorder/newformOnline",
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Work Order.Create Work Order"
