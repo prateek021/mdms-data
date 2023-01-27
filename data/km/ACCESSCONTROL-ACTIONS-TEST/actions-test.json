@@ -14275,14 +14275,14 @@
 	{
 		"id": 3098,
 		"name": "Create Tender",
-		"url": "services/EGF/tender/new",
+		"url": "services/EGF/tender/newOnline",
 		"displayName": "Create Tender",
 		"orderNumber": 14,
 		"parentModule": "",
 		"enabled": true,
 		"serviceCode": "Engineering",
 		"code": "null",
-		"navigationURL": "services/EGF/tender/new",
+		"navigationURL": "services/EGF/tender/newOnline",
 		"path": "Engineering.Transaction.Tender.Create Tender",
 		"leftIcon": "",
 		"rightIcon": ""
