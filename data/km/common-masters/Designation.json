@@ -61,6 +61,24 @@
       "description": "Commissioner",
       "code": "COMM",
       "active": true
+    },
+    {
+      "name": "Deputy Chief Engineer",
+      "description": "Deputy Chief Engineer",
+      "code": "DYCE",
+      "active": true
+    },
+    {
+      "name": "Executive Engineer",
+      "description": "Executive Engineer",
+      "code": "EE",
+      "active": true
+    },
+    {
+      "name": "Deputy Controller of Municipal Finance & Accounts",
+      "description": "Deputy Controller of Municipal Finance & Accounts",
+      "code": "DYCMFA",
+      "active": true
     }
   ]
 }
