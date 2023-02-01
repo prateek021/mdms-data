@@ -25697,6 +25697,12 @@
     },
     {
       "rolecode": "SUPERUSER",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "km"
+    },	  
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 4002,
       "actioncode": "",
       "tenantId": "km"
@@ -25782,6 +25788,30 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 4011,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4012,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4012,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4013,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4013,
       "actioncode": "",
       "tenantId": "km"
     }
