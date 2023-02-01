@@ -25814,42 +25814,6 @@
       "actionid": 4013,
       "actioncode": "",
       "tenantId": "km"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4014,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4014,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4015,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4015,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4016,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4016,
-      "actioncode": "",
-      "tenantId": "km"
     }
   ]
 }

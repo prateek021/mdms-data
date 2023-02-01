@@ -14503,48 +14503,6 @@
 		"code": "null",
 		"leftIcon": "editor:collections",
 		"path": "TPS.Create Fund Source"
-	},
-    {
-         "id": 4014,
-         "name": "Employee Personal Asset Declaration Search",
-         "url": "url",
-         "displayName": "Employee Personal Asset Declaration Search",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "Employee Personal Asset Declaration Search",
-         "code": "null",
-         "navigationURL": "/hrms/employeedetailsearch2",
-         "path": "Employee Asset Declaration.Employee Personal Asset Declaration Search",
-         "leftIcon": "social:people"
-    },
-    {
-         "id": 4015,
-         "name": "Employee Asset Declaration Search for Others",
-         "url": "url",
-         "displayName": "Employee Asset Declaration Search for Others",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "Employee Asset Declaration Search for Others",
-         "code": "null",
-         "navigationURL": "/hrms/employeedetailsearch1",
-         "path": "Employee Asset Declaration.Employee Asset Declaration Search for Others",
-         "leftIcon": "social:people"
-    },
-    {
-         "id": 4016,
-         "name": "Grant View Access for Other Employee's Personal Asset Declaration",
-         "url": "url",
-         "displayName": "Grant View Access for Other Employee's Personal Asset Declaration",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "Grant View Access for Other Employee's Personal Asset Declaration",
-         "code": "null",
-         "navigationURL": "/hrms/empassetdeclaration",
-         "path": "Employee Asset Declaration.Grant View Access for Other Employee's Personal Asset Declaration",
-         "leftIcon": "social:people"
-    }
+	}
    ]
 }
