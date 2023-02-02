@@ -3784,7 +3784,7 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Fund.Create Fund",
-         "navigationURL": "employee/services/EGF/fund/new"
+         "navigationURL": "services/EGF/fund/new"
       },
       {
          "id": 1637,
@@ -5045,7 +5045,7 @@
          "navigationURL": "services/EGF/workorder/newformOnline",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Order Master.Create Work Order"
+         "path": "Engineering.Transaction.Order Master.Create Work Order"
       },
       {
          "id": 1732,
@@ -5059,7 +5059,7 @@
          "navigationURL": "services/EGF/workorder/search/view",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Order Master.View Work Order"
+         "path": "Engineering.Transaction.Order Master.View Work Order"
       },
       {
          "id": 1733,
@@ -5073,7 +5073,7 @@
          "navigationURL": "services/EGF/workorder/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Order Master.Modify Work Order"
+         "path": "Engineering.Transaction.Order Master.Modify Work Order"
       },
       {
          "id": 1734,
@@ -14503,6 +14503,90 @@
 		"code": "null",
 		"leftIcon": "editor:collections",
 		"path": "TPS.Create Fund Source"
-	}
+	},
+	{
+         "id": 4014,
+         "name": "TR-Create",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Create Treasury Receipt",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Treasury.Create Treasury Receipt",
+         "navigationURL": "services/EGF/treasury/new"
+      },
+      {
+         "id": 4015,
+         "name": "TR-View",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "View Treasury Receipt",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Treasury.View Treasury Receipt",
+         "navigationURL": "services/EGF/treasury/search/view"
+      },
+      {
+         "id": 4016,
+         "name": "TR-Modify",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Modify Treasury Receipt",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Treasury.Modify Treasury Receipt",
+         "navigationURL": "services/EGF/treasury/search/modify"
+      },
+	  {
+         "id": 4017,
+         "name": "UN-CRN",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Unlock CRN",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Unlock.CRN",
+         "navigationURL": "services/EGF/crn/unlockCrn"
+      },
+	  {
+         "id": 4018,
+         "name": "UN-TR",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Unlock TR",
+         "orderNumber": 2,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Unlock.TR",
+         "navigationURL": "services/EGF/treasury/unlockTreasury"
+      },
+	  {
+         "id": 4019,
+         "name": "UN-Budget",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Unlock Budget",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Unlock.Budget",
+         "navigationURL": "services/EGF/treasury/unlockTreasury"
+      }
    ]
 }
