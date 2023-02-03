@@ -278,7 +278,6 @@
         "$.code"
       ]
     },
-	
 	"OwnershipType": {
       "masterName": "OwnershipType",
       "moduleDefinition": null,
