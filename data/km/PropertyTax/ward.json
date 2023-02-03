@@ -7,32 +7,10 @@
                     "code": "001",
                     "active": true,
 					"office": [{
-			"name": "A.C NORTH",
-			"code": "1"
+			             "name": "A.C NORTH",
+			              "code": "1"
 		}],
-                    "street": [
-                        {
-                            "name": "BARRACKPORE TRUNK ROAD",
-                            "code": "01"
-                        },
-                        {
-                            "name": "CHANDRA KUMAR ROY LANE",
-                            "code": "02"
-                        },
-                        {
-                            "name": "COSSIPORE ROAD",
-                            "code": "03"
-                        },
-                        {
-                            "name": "GOBINDA MONDAL ROAD",
-                            "code": "04"
-                        },
-                        {
-                            "name": "GOPAL CHANDRA CHATTERJEE ROAD",
-                            "code": "05"
-                        }
-                    ],
-					
+                   
             "block":[{
 			   "name": "1/1",
 				"code": "1/1",
@@ -55,20 +33,7 @@
 			        "name": "A.C NORTH",
 			         "code": "1"
 		            }],
-                    "street": [
-                        {
-                            "name": "BARRACKPORE TRUNK ROAD",
-                            "code": "01"
-                        },
-                        {
-                            "name": "CENTRE SINTHEE ROAD",
-                            "code": "02"
-                        },
-                        {
-                            "name": "D GUPTA LANE",
-                            "code": "03"
-                        }
-                    ],
+                   
 					"block":[{
 			   "name": "2/1",
 				"code": "2/1",
@@ -85,20 +50,7 @@
 			        "name": "A.C NORTH",
 			         "code": "1"
 		            }],
-                    "street": [
-                        {
-                            "name": "ANATH NATH DEB LANE",
-                            "code": "01"
-                        },
-                        {
-                            "name": "BEERPARA LANE",
-                            "code": "02"
-                        },
-                        {
-                            "name": "BUTTO KRISTO PAUL LANE",
-                            "code": "03"
-                        }
-                    ],
+                    
 					"block":[{
 			   "name": "3/1",
 				"code": "3/1",
@@ -134,20 +86,7 @@
 			        "name": "A.C NORTH",
 			         "code": "1"
 		            }],
-                    "street": [
-                        {
-                            "name": "BARRACKPORE TRUNK ROAD",
-                            "code": "01"
-                        },
-                        {
-                            "name": "BEERPARA LANE",
-                            "code": "02"
-                        },
-                        {
-                            "name": "CHANDRA NATH SIMLAI LANE",
-                            "code": "03"
-                        }
-                    ],
+                    
 					"block":[{
 			   "name": "4/1",
 				"code": "4/1",
@@ -164,20 +103,7 @@
 			        "name": "A.C NORTH",
 			         "code": "1"
 		            }],
-                    "street": [
-                        {
-                            "name": "ANATH NATH DEB LANE",
-                            "code": "01"
-                        },
-                        {
-                            "name": "BARRACKPORE TRUNK ROAD",
-                            "code": "02"
-                        },
-                        {
-                            "name": "BHAIRAB MOOKHERJEE LANE",
-                            "code": "03"
-                        }
-                    ],
+                    
 					"block":[{
 			   "name": "5/1",
 				"code": "5/1",
@@ -191,6 +117,3284 @@
 				"value":"24"
 			}
 			]
-                }
+                },
+				{
+                    "name": "006",
+                    "code": "006",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "6/1",
+				"code": "6/1",
+				"category":"E",
+				"value":"24"
+			}
+			]
+                },
+				{
+                    "name": "007",
+                    "code": "007",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "7/1",
+				"code": "7/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "7/2",
+				"code": "7/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+                },
+				{
+                    "name": "008",
+                    "code": "008",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "8/1",
+				"code": "8/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "8/2",
+				"code": "8/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "8/3",
+				"code": "8/3",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "009",
+                    "code": "009",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "9/1",
+				"code": "9/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "9/2",
+				"code": "9/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "9/3",
+				"code": "9/3",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "010",
+                    "code": "010",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "10/1",
+				"code": "10/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "10/2",
+				"code": "10/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "011",
+                    "code": "011",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "11/1",
+				"code": "11/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "11/2",
+				"code": "11/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "012",
+                    "code": "012",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "12/1",
+				"code": "12/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "12/2",
+				"code": "12/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "013",
+                    "code": "013",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "13/1",
+				"code": "13/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "014",
+                    "code": "014",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "14/1",
+				"code": "14/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "14/2",
+				"code": "14/2",
+				"category":"E",
+				"value":"24"
+			}
+			
+			]
+                },
+				{
+                    "name": "015",
+                    "code": "015",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "15/1",
+				"code": "15/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "15/2",
+				"code": "15/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "016",
+                    "code": "016",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "16/1",
+				"code": "16/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "017",
+                    "code": "017",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "17/1",
+				"code": "17/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "018",
+                    "code": "018",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "18/1",
+				"code": "18/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "18/2",
+				"code": "18/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "18/3",
+				"code": "18/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "18/4",
+				"code": "18/4",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "019",
+                    "code": "019",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "19/1",
+				"code": "19/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "020",
+                    "code": "020",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "20/1",
+				"code": "20/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				
+				{
+                    "name": "021",
+                    "code": "021",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "21/1",
+				"code": "21/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "022",
+                    "code": "022",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "22/1",
+				"code": "22/1",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+                },
+				{
+                    "name": "023",
+                    "code": "023",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "23/1",
+				"code": "23/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "23/2",
+				"code": "23/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "024",
+                    "code": "024",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "24/1",
+				"code": "24/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+                },
+				{
+                    "name": "025",
+                    "code": "025",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "25/1",
+				"code": "25/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "25/2",
+				"code": "25/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "25/3",
+				"code": "25/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "25/4",
+				"code": "25/4",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "25/5",
+				"code": "25/5",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "026",
+                    "code": "026",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "26/1",
+				"code": "26/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "26/2",
+				"code": "26/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "027",
+                    "code": "027",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "27/1",
+				"code": "27/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "27/2",
+				"code": "27/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "028",
+                    "code": "028",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "28/1",
+				"code": "28/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "28/2",
+				"code": "28/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "029",
+                    "code": "029",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "29/1",
+				"code": "29/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "29/2",
+				"code": "29/2",
+				"category":"F",
+				"value":"18"
+			}
+			
+			]
+                },
+				{
+                    "name": "030",
+                    "code": "030",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "30/1",
+				"code": "30/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "30/2",
+				"code": "30/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+                },
+				{
+                    "name": "031",
+                    "code": "031",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "31/1",
+				"code": "31/1",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+                },
+				{
+                    "name": "032",
+                    "code": "032",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "32/1",
+				"code": "32/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "32/2",
+				"code": "32/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "033",
+                    "code": "033",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "33/1",
+				"code": "33/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "33/2",
+				"code": "33/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "33/3",
+				"code": "33/3",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+                },
+				{
+                    "name": "034",
+                    "code": "034",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "34/1",
+				"code": "34/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "34/2",
+				"code": "34/2",
+				"category":"E",
+				"value":"24"
+			}
+			
+			]
+                },
+				{
+                    "name": "035",
+                    "code": "035",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "35/1",
+				"code": "35/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "35/2",
+				"code": "35/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "35/3",
+				"code": "35/3",
+				"category":"F",
+				"value":"18"
+			}
+			
+			]
+                },
+				{
+                    "name": "036",
+                    "code": "036",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "36/1",
+				"code": "36/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "36/2",
+				"code": "36/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "36/3",
+				"code": "36/3",
+				"category":"D",
+				"value":"32"
+			}
+			
+			
+			]
+                },
+				{
+                    "name": "037",
+                    "code": "037",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "37/1",
+				"code": "37/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "37/2",
+				"code": "37/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+               },
+			   {
+                    "name": "038",
+                    "code": "038",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "38/1",
+				"code": "38/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "38/2",
+				"code": "38/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "38/3",
+				"code": "38/3",
+				"category":"D",
+				"value":"32"
+			}
+			
+			
+			]
+            },
+			
+			{
+                    "name": "039",
+                    "code": "039",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "39/1",
+				"code": "39/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "39/2",
+				"code": "39/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "39/3",
+				"code": "39/3",
+				"category":"C",
+				"value":"42"
+			}
+			
+			
+			]
+            },
+			{
+                    "name": "040",
+                    "code": "040",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "40/1",
+				"code": "40/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "40/2",
+				"code": "40/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "40/3",
+				"code": "40/3",
+				"category":"D",
+				"value":"32"
+			}
+			
+			
+			]
+            },
+			{
+                    "name": "041",
+                    "code": "041",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "41/1",
+				"code": "41/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "41/2",
+				"code": "41/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			
+			]
+            },
+			{
+                    "name": "042",
+                    "code": "042",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "42/1",
+				"code": "42/1",
+				"category":"A",
+				"value":"74"
+			}
+			
+			]
+            },
+			{
+                    "name": "043",
+                    "code": "043",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "43/1",
+				"code": "43/1",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			
+			{
+                    "name": "044",
+                    "code": "044",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "44/1",
+				"code": "44/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "44/2",
+				"code": "44/2",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "44/3",
+				"code": "44/3",
+				"category":"A",
+				"value":"74"
+			}
+			
+			
+			]
+            },
+			{
+                    "name": "045",
+                    "code": "045",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "45/1",
+				"code": "45/1",
+				"category":"A",
+				"value":"74"
+			}
+			
+			
+			]
+            },
+			{
+                    "name": "046",
+                    "code": "046",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "46/1",
+				"code": "46/1",
+				"category":"A",
+				"value":"74"
+			}
+			
+			]
+            },
+			{
+                    "name": "047",
+                    "code": "047",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "47/1",
+				"code": "47/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "47/2",
+				"code": "47/2",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			{
+                    "name": "048",
+                    "code": "048",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "48/1",
+				"code": "48/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "48/2",
+				"code": "48/2",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+            },
+			{
+                    "name": "049",
+                    "code": "049",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "49/1",
+				"code": "49/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "49/2",
+				"code": "49/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "49/3",
+				"code": "49/3",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "49/4",
+				"code": "49/4",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+            },
+			{
+                    "name": "050",
+                    "code": "050",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "50/1",
+				"code": "50/1",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "051",
+                    "code": "051",
+                    "active": true,
+					"office": [{
+			        "name": "A.C NORTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "51/1",
+				"code": "51/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "51/2",
+				"code": "51/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "052",
+                    "code": "052",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "52/1",
+				"code": "52/1",
+				"category":"C",
+				"value":"42"
+			}
+			
+			]
+            },
+			{
+                    "name": "053",
+                    "code": "053",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "53/1",
+				"code": "53/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "054",
+                    "code": "054",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "54/1",
+				"code": "54/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "54/2",
+				"code": "54/2",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "055",
+                    "code": "055",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "55/1",
+				"code": "55/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "55/2",
+				"code": "55/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "55/3",
+				"code": "55/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "55/4",
+				"code": "55/4",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "056",
+                    "code": "056",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "56/1",
+				"code": "56/1",
+				"category":"F",
+				"value":"18"
+			}
+			
+			]
+            },
+			{
+                    "name": "057",
+                    "code": "057",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "57/1",
+				"code": "57/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "57/2",
+				"code": "57/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "57/3",
+				"code": "57/3",
+				"category":"G",
+				"value":"13"
+			}
+			
+			]
+            },
+			
+			{
+                    "name": "058",
+                    "code": "058",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "58/1",
+				"code": "58/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "58/2",
+				"code": "58/2",
+				"category":"G",
+				"value":"13"
+			}
+			
+			]
+            },
+				
+			{
+                    "name": "059",
+                    "code": "059",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "59/1",
+				"code": "59/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "59/2",
+				"code": "59/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "59/3",
+				"code": "59/3",
+				"category":"E",
+				"value":"24"
+			}
+			
+			]
+            },
+			{
+                    "name": "060",
+                    "code": "060",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "60/1",
+				"code": "60/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "60/2",
+				"code": "60/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "60/3",
+				"code": "60/3",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			{
+                    "name": "061",
+                    "code": "061",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "61/1",
+				"code": "61/1",
+				"category":"A",
+				"value":"74"
+			},
+			{
+			   "name": "61/2",
+				"code": "61/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "61/3",
+				"code": "61/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "61/4",
+				"code": "61/4",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			
+			{
+                    "name": "062",
+                    "code": "062",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "62/1",
+				"code": "62/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "62/2",
+				"code": "62/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "063",
+                    "code": "063",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "63/1",
+				"code": "63/1",
+				"category":"A",
+				"value":"74"
+			}
+			
+			]
+            },
+			{
+                    "name": "064",
+                    "code": "064",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "64/1",
+				"code": "64/1",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			{
+                    "name": "065",
+                    "code": "065",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "65/1",
+				"code": "65/1",
+				"category":"B",
+				"value":"56"
+			}
+			
+			]
+            },
+			{
+                    "name": "066",
+                    "code": "066",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "66/1",
+				"code": "66/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "067",
+                    "code": "067",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "67/1",
+				"code": "67/1",
+				"category":"D",
+				"value":"32"
+			}
+			
+			]
+            },
+			{
+                    "name": "068",
+                    "code": "068",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "68/1",
+				"code": "68/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "68/2",
+				"code": "68/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			{
+                    "name": "069",
+                    "code": "069",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "69/1",
+				"code": "69/1",
+				"category":"A",
+				"value":"74"
+			},
+			{
+			   "name": "69/2",
+				"code": "69/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "69/3",
+				"code": "69/3",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "070",
+                    "code": "070",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "70/1",
+				"code": "70/1",
+				"category":"A",
+				"value":"74"
+			},
+			{
+			   "name": "70/2",
+				"code": "70/2",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "70/3",
+				"code": "70/3",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "70/4",
+				"code": "70/4",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "071",
+                    "code": "071",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "71/1",
+				"code": "71/1",
+				"category":"A",
+				"value":"74"
+			},
+			{
+			   "name": "71/2",
+				"code": "71/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "71/3",
+				"code": "71/3",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "072",
+                    "code": "072",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "72/1",
+				"code": "72/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "72/2",
+				"code": "72/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			{
+                    "name": "073",
+                    "code": "073",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "73/1",
+				"code": "73/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "73/2",
+				"code": "73/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "73/3",
+				"code": "73/3",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "73/4",
+				"code": "73/4",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "074",
+                    "code": "074",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "74/1",
+				"code": "74/1",
+				"category":"A",
+				"value":"74"
+			},
+			{
+			   "name": "74/2",
+				"code": "74/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			{
+                    "name": "075",
+                    "code": "075",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "75/1",
+				"code": "75/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "75/2",
+				"code": "75/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "75/3",
+				"code": "75/3",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "75/4",
+				"code": "75/4",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "076",
+                    "code": "076",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "76/1",
+				"code": "76/1",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+             {
+                    "name": "077",
+                    "code": "077",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "77/1",
+				"code": "77/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "77/2",
+				"code": "77/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "078",
+                    "code": "078",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "78/1",
+				"code": "78/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "78/2",
+				"code": "78/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "079",
+                    "code": "079",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "79/1",
+				"code": "79/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "79/2",
+				"code": "79/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "080",
+                    "code": "080",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "80/1",
+				"code": "80/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "081",
+                    "code": "081",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "81/1",
+				"code": "81/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "81/2",
+				"code": "81/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "81/3",
+				"code": "81/3",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "082",
+                    "code": "082",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "82/1",
+				"code": "82/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "82/2",
+				"code": "82/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "82/3",
+				"code": "82/3",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "083",
+                    "code": "083",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "83/1",
+				"code": "83/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "83/2",
+				"code": "83/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "83/3",
+				"code": "83/3",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			
+			{
+                    "name": "084",
+                    "code": "084",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "84/1",
+				"code": "84/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "84/2",
+				"code": "84/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			
+			{
+                    "name": "085",
+                    "code": "085",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "85/1",
+				"code": "85/1",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "086",
+                    "code": "086",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "86/1",
+				"code": "86/1",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "087",
+                    "code": "087",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "87/1",
+				"code": "87/1",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "088",
+                    "code": "088",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "88/1",
+				"code": "88/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "88/2",
+				"code": "88/2",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "88/3",
+				"code": "88/3",
+				"category":"B",
+				"value":"56"
+			}
+			]
+            },
+			{
+                    "name": "089",
+                    "code": "089",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "89/1",
+				"code": "89/1",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "89/2",
+				"code": "89/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "090",
+                    "code": "090",
+                    "active": true,
+					"office": [{
+			        "name": "A.C SOUTH",
+			         "code": "1"
+		            }],
+                    
+					"block":[{
+			   "name": "90/1",
+				"code": "90/1",
+				"category":"B",
+				"value":"56"
+			},
+			{
+			   "name": "90/2",
+				"code": "90/2",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			
+			{
+                    "name": "091",
+                    "code": "091",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "91/1",
+				"code": "91/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "092",
+                    "code": "092",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "92/1",
+				"code": "92/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "92/2",
+				"code": "92/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "92/3",
+				"code": "92/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "92/4",
+				"code": "92/4",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "093",
+                    "code": "093",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "93/1",
+				"code": "93/1",
+				"category":"C",
+				"value":"42"
+			}
+			]
+            },
+			{
+                    "name": "094",
+                    "code": "094",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "94/1",
+				"code": "94/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "94/2",
+				"code": "94/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "94/3",
+				"code": "94/3",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "095",
+                    "code": "095",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "95/1",
+				"code": "95/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "096",
+                    "code": "096",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "96/1",
+				"code": "96/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "097",
+                    "code": "097",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "97/1",
+				"code": "97/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+			{
+                    "name": "098",
+                    "code": "098",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "98/1",
+				"code": "98/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "099",
+                    "code": "099",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "99/1",
+				"code": "99/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "99/2",
+				"code": "99/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "100",
+                    "code": "100",
+                    "active": true,
+					"office": [{
+			        "name": "TTD",
+			         "code": "2"
+		            }],
+                    
+					"block":[{
+			   "name": "100/1",
+				"code": "100/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "101",
+                    "code": "101",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "101/1",
+				"code": "101/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "102",
+                    "code": "102",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "102/1",
+				"code": "102/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "102/2",
+				"code": "102/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			
+			{
+                    "name": "103",
+                    "code": "103",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "103/1",
+				"code": "103/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "103/2",
+				"code": "103/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "104",
+                    "code": "104",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "104/1",
+				"code": "104/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "104/2",
+				"code": "104/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "105",
+                    "code": "105",
+                    "active": true,
+					"office": [{
+			       "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "105/1",
+				"code": "105/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "105/2",
+				"code": "105/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "106",
+                    "code": "106",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "106/1",
+				"code": "106/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "106/2",
+				"code": "106/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "107",
+                    "code": "107",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "107/1",
+				"code": "107/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "107/2",
+				"code": "107/2",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "107/3",
+				"code": "107/3",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "107/4",
+				"code": "107/4",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "108",
+                    "code": "108",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "108/1",
+				"code": "108/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "108/2",
+				"code": "108/2",
+				"category":"C",
+				"value":"42"
+			},
+			{
+			   "name": "108/3",
+				"code": "108/3",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "108/4",
+				"code": "108/4",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			
+			{
+                    "name": "109",
+                    "code": "109",
+                    "active": true,
+					"office": [{
+			        "name": "BR XII",
+			         "code": "6"
+		            }],
+                    
+					"block":[{
+			   "name": "109/1",
+				"code": "109/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "109/2",
+				"code": "109/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			
+			{
+                    "name": "110",
+                    "code": "110",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "110/1",
+				"code": "110/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "111",
+                    "code": "111",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "111/1",
+				"code": "111/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "111/2",
+				"code": "111/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "111/3",
+				"code": "111/3",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			{
+                    "name": "112",
+                    "code": "112",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "112/1",
+				"code": "112/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "112/2",
+				"code": "112/2",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			{
+                    "name": "113",
+                    "code": "113",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "113/1",
+				"code": "113/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "113/2",
+				"code": "113/2",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			{
+                    "name": "114",
+                    "code": "114",
+                    "active": true,
+					"office": [{
+			        "name": "BR XI",
+			         "code": "3"
+		            }],
+                    
+					"block":[{
+			   "name": "114/1",
+				"code": "114/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "114/2",
+				"code": "114/2",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			{
+                    "name": "115",
+                    "code": "115",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "115/1",
+				"code": "115/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "115/2",
+				"code": "115/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "115/3",
+				"code": "115/3",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "115/4",
+				"code": "115/4",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "116",
+                    "code": "116",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "116/1",
+				"code": "116/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "116/2",
+				"code": "116/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "117",
+                    "code": "117",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "117/1",
+				"code": "117/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "117/2",
+				"code": "117/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "117/3",
+				"code": "117/3",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "117/4",
+				"code": "117/4",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+	        {
+                    "name": "118",
+                    "code": "118",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "118/1",
+				"code": "118/1",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },	
+
+              {
+                    "name": "119",
+                    "code": "119",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "119/1",
+				"code": "119/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "119/2",
+				"code": "119/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+             {
+                    "name": "120",
+                    "code": "120",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "120/1",
+				"code": "120/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "121",
+                    "code": "121",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "121/1",
+				"code": "121/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "121/2",
+				"code": "121/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "122",
+                    "code": "122",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "122/1",
+				"code": "122/1",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "123",
+                    "code": "123",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "123/1",
+				"code": "123/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "123/2",
+				"code": "123/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			
+            {
+                    "name": "124",
+                    "code": "124",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "124/1",
+				"code": "124/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "124/2",
+				"code": "124/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },	
+            
+            {
+                    "name": "125",
+                    "code": "125",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "125/1",
+				"code": "125/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "125/2",
+				"code": "125/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "125/3",
+				"code": "125/3",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },		
+			{
+                    "name": "126",
+                    "code": "126",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "126/1",
+				"code": "126/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "126/2",
+				"code": "126/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "126/3",
+				"code": "126/3",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },		
+			{
+                    "name": "127",
+                    "code": "127",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "127/1",
+				"code": "127/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "127/2",
+				"code": "127/2",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "127/3",
+				"code": "127/3",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "127/4",
+				"code": "127/4",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "128",
+                    "code": "128",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "128/1",
+				"code": "128/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "128/2",
+				"code": "128/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "129",
+                    "code": "129",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "129/1",
+				"code": "129/1",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "130",
+                    "code": "130",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "130/1",
+				"code": "130/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "130/2",
+				"code": "130/2",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "131",
+                    "code": "131",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "131/1",
+				"code": "131/1",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "132",
+                    "code": "132",
+                    "active": true,
+					"office": [{
+			        "name": "SSU",
+			         "code": "4"
+		            }],
+                    
+					"block":[{
+			   "name": "132/1",
+				"code": "132/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "132/2",
+				"code": "132/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "133",
+                    "code": "133",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "133/1",
+				"code": "133/1",
+				"category":"E",
+				"value":"24"
+			}
+			]
+            },
+			{
+                    "name": "134",
+                    "code": "134",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "134/1",
+				"code": "134/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "134/2",
+				"code": "134/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "135",
+                    "code": "135",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "135/1",
+				"code": "135/1",
+				"category":"E",
+				"value":"24"
+			},
+			{
+			   "name": "135/2",
+				"code": "135/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+			{
+                    "name": "136",
+                    "code": "136",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "136/1",
+				"code": "136/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "136/2",
+				"code": "136/2",
+				"category":"D",
+				"value":"32"
+			}
+			]
+            },
+			{
+                    "name": "137",
+                    "code": "137",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "137/1",
+				"code": "137/1",
+				"category":"D",
+				"value":"32"
+			},
+			{
+			   "name": "137/2",
+				"code": "137/2",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },
+            {
+                    "name": "138",
+                    "code": "138",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "138/1",
+				"code": "138/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "138/2",
+				"code": "138/2",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },	
+             {
+                    "name": "139",
+                    "code": "139",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "139/1",
+				"code": "139/1",
+				"category":"F",
+				"value":"18"
+			}
+			]
+            },	
+			{
+                    "name": "140",
+                    "code": "140",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "140/1",
+				"code": "140/1",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },			
+            {
+                    "name": "141",
+                    "code": "141",
+                    "active": true,
+					"office": [{
+			        "name": "GRU",
+			         "code": "5"
+		            }],
+                    
+					"block":[{
+			   "name": "141/1",
+				"code": "141/1",
+				"category":"F",
+				"value":"18"
+			},
+			{
+			   "name": "141/2",
+				"code": "141/2",
+				"category":"G",
+				"value":"13"
+			}
+			]
+            },
+			
+			{
+                    "name": "142",
+                    "code": "142",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "7"
+		            }]
+            },
+            {
+                    "name": "143",
+                    "code": "143",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "7"
+		            }]
+            },
+            {
+                    "name": "144",
+                    "code": "144",
+                    "active": true,
+					"office": [{
+			        "name": "JOKA",
+			         "code": "7"
+		            }]
+            }			
+             			
 	]		
 	}
