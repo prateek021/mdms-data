@@ -14587,6 +14587,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Unlock.Budget",
          "navigationURL": "services/EGF/treasury/unlockTreasury"
+      },
+      {
+         "id": 4020,
+         "name": "HRMS",
+         "url": "url",
+         "displayName": "Role Management",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "HRMS",
+         "code": "null",
+         "navigationURL": "/hrms/roleManagement",
+         "path": "HRMS.Role Management",
+         "leftIcon": "social:people"
       }
    ]
 }
