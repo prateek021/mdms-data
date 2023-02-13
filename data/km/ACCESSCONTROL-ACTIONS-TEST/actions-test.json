@@ -14601,6 +14601,21 @@
          "navigationURL": "/hrms/roleManagement",
          "path": "HRMS.Role Management",
          "leftIcon": "social:people"
+      },
+      {
+         "id": 4021,
+         "name": "Vehicle Tracking Report",
+         "url": "url",
+         "displayName": "Vehicle Tracking Report",
+         "orderNumber": 13,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Parking",
+         "code": "null",
+         "navigationURL": "parking-citizen/vehicleTracking",
+         "path": "Parking.Report.Vehicle Tracking Report",
+         "leftIcon": "social:assignment",
+         "rightIcon": ""
       }
    ]
 }

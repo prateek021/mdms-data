@@ -25862,6 +25862,18 @@
       "actionid": 4020,
       "actioncode": "",
       "tenantId": "km"
+    },	
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 4021,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4021,
+      "actioncode": "",
+      "tenantId": "km"
     }
 	
   ]
