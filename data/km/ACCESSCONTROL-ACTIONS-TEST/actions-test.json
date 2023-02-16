@@ -13562,7 +13562,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.Fetch SAF",
-         "navigationURL": "pt-saf/safSearch"
+         "navigationURL": ""
 		 
       },
       {
@@ -13688,7 +13688,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Capture Proposed AV",
-         "navigationURL": "pt-inspection/capturedProposedAV"
+         "navigationURL": ""
 		 
       },
       {
@@ -13735,15 +13735,15 @@
       },
       {
          "id": 3058,
-         "name": "Hearing Notice",
+         "name": "Hearing Notice Search",
          "url": "url",
-         "displayName": "Hearing Notice",
+         "displayName": "Hearing Notice Search",
          "orderNumber": 6,
          "parentModule": "propertytax",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.Hearing Notice",
+         "path": "Property Tax.Hearing.Hearing Notice Search",
          "navigationURL": "pt-hearing/hearingNoticeSearch"
 		 
       },
@@ -13799,7 +13799,7 @@
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.FS Bill",
+         "path": "Property Tax.Demand.FS Bill",
          "navigationURL": "property-tax/fsbill"
 		 
       },
@@ -13813,7 +13813,7 @@
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.FS Bill Cancellation",
+         "path": "Property Tax.Demand.FS Bill Cancellation",
          "navigationURL": "mdms/PropertyTax/Hearing/FSBillCancellation"
 		 
       },
@@ -13841,8 +13841,8 @@
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
-         "path": "Property Tax.Hearing.FS Bill Reprint",
-         "navigationURL": "mdms/PropertyTax/Hearing/FSBillReprint"
+         "path": "Property Tax.Demand.FS Bill Reprint",
+         "navigationURL": "mdms/PropertyTax/Demand/FSBillReprint"
 		 
       },
       {
@@ -13856,7 +13856,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Case Entry",
-         "navigationURL": "mdms/PropertyTax/Mutation/CaseEntry"
+         "navigationURL": ""
 		 
       },
       {
@@ -13870,7 +13870,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Case Search",
-         "navigationURL": "mdms/PropertyTax/Mutation/Case Search"
+         "navigationURL": ""
 		 
       },
       {
@@ -13884,7 +13884,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Inspection Sheet Entry",
-         "navigationURL": "mdms/PropertyTax/Mutation/InspectionSheetEntry"
+         "navigationURL": ""
 		 
       },
       {
@@ -13898,7 +13898,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Awaiting Approval Search",
-         "navigationURL": "mdms/PropertyTax/Mutation/AwaitingApprovalSearch"
+         "navigationURL": ""
 		 
       },
       {
@@ -13912,7 +13912,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Liability Transfer",
-         "navigationURL": "mdms/PropertyTax/Mutation/LiabilityTransfer"
+         "navigationURL": ""
 		 
       },
       {
@@ -13926,7 +13926,7 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Cancel Mutation",
-         "navigationURL": "mdms/PropertyTax/Mutation/CancelMutation"
+         "navigationURL": ""
 		 
       },
 	  {
@@ -14797,6 +14797,20 @@
          "code": "null",
          "path": "Property Tax.Mutation.Mutation Apportionment",
          "navigationURL": "property-tax/mutation-apportionment"
+		 
+      },
+      {
+         "id": 4035,
+         "name": "Search Assessee",
+         "url": "url",
+         "displayName": "Search Assessee",
+         "orderNumber": 6,
+         "parentModule": "propertytax",
+         "enabled": true,
+         "serviceCode": "PT",
+         "code": "null",
+         "path": "Property Tax.Mutation.Search Assessee",
+         "navigationURL": "property-tax/mutation-search-assessee"
 		 
       }
    ]
