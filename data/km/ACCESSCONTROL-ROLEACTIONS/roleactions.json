@@ -25029,12 +25029,6 @@
       "tenantId": "km"
     },
     {
-      "rolecode": "CITIZEN",
-      "actionid": 3045,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
       "rolecode": "PT_TEST_INSPECTOR",
       "actionid": 3046,
       "actioncode": "",
@@ -25286,7 +25280,6 @@
       "actioncode": "",
       "tenantId": "km"
     },
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 3079,
@@ -25295,6 +25288,12 @@
     },
     {
       "rolecode": "PT_TEST_INSPECTOR",
+      "actionid": 3079,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 3079,
       "actioncode": "",
       "tenantId": "km"
@@ -25321,12 +25320,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 3044,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 3045,
       "actioncode": "",
       "tenantId": "km"
     },
@@ -25369,18 +25362,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 3052,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 3053,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 3054,
       "actioncode": "",
       "tenantId": "km"
     },
@@ -25914,6 +25895,12 @@
       "tenantId": "km"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 4026,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 4027,
       "actioncode": "",
@@ -25960,6 +25947,12 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 4034,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4035,
       "actioncode": "",
       "tenantId": "km"
     }
