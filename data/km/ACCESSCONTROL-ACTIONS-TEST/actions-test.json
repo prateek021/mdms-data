@@ -5995,21 +5995,7 @@
          "leftIcon": "custom:account-alert",
          "rightIcon": ""
       },
-      {
-         "id": 1806,
-         "name": "PropertyTax",
-         "url": "url",
-         "displayName": "Property Tax",
-         "orderNumber": 1,
-         "queryParams": "",
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "path": "Property Tax",
-         "navigationURL": "/digit-ui/citizen",
-         "leftIcon": "communication:business",
-         "rightIcon": ""
-      },
+     
       {
          "id": 1807,
          "name": "TradeLicense",
@@ -13495,19 +13481,21 @@
       "rightIcon": ""
    },
    {
-         "id": 3041,
-         "name": "Assessee Create",
-         "url": "url",
-         "displayName": "Assessee Create",
-         "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
-         "path": "Property Tax.Assessee Manitenance.Assessee Create",
-         "navigationURL": "property-tax/assessment-form"
-		 
-      },
+      "id": 3041,
+      "name": "Assessee Create",
+      "url": "url",
+     "displayName": "Assessee Create",
+      "orderNumber": 6,
+     "parentModule": "",
+     "enabled": true,
+     "serviceCode": "PT",
+     "code": "null",
+     "path": "Property Tax.Assessee Manitenance.Assessee Create",
+     "navigationURL": "property-tax/assessment-form",
+     "leftIcon": "social:group-add",
+     "rightIcon": ""
+    
+   },
 	   
    {
          "id": 3042,
@@ -13523,18 +13511,20 @@
          "navigationURL": "pt-mutation/propertySearch"
 		 
       },
-	  {
+      {
          "id": 3043,
          "name": "Asessee Search",
          "url": "url",
          "displayName": "Asessee Search",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.Assessee Manitenance.Asessee Search",
-         "navigationURL": "property-tax/property-search"
+         "navigationURL": "property-tax/property-search",
+		  "leftIcon": "social:group-add",
+        "rightIcon": ""
 		 
       },
       {
@@ -13543,12 +13533,15 @@
          "url": "url",
          "displayName": "SAF",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
+         "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.UAA.SAF",
-         "navigationURL": "pt-saf/propertySearch"
+         "navigationURL": "pt-saf/propertySearch",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
+        
 		 
       },
       {
@@ -13557,12 +13550,14 @@
          "url": "url",
          "displayName": "Fetch SAF",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": false,
-         "serviceCode": "PT",
-         "code": "null",
+         "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.UAA.Fetch SAF",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13571,12 +13566,14 @@
          "url": "url",
          "displayName": "View SAF",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
+         "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.UAA.View SAF",
-         "navigationURL": "pt-saf/safSearch"
+         "navigationURL": "pt-saf/safSearch",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14029,12 +14026,14 @@
          "url": "url",
          "displayName": "Assessee Response Capture",
          "orderNumber": 6,
-         "parentModule": "propertytax",
+         "parentModule": "",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Assessee Response Capture",
-         "navigationURL": "property-tax/response-capture"
+         "navigationURL": "property-tax/response-capture",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14043,14 +14042,15 @@
          "url": "url",
          "displayName": "Search Draft Assessee",
          "orderNumber": 6,
-         "parentModule": "propertytax",
+         "parentModule": "",
          "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Assessee Manitenance.Search Draft Assessee",
-         "navigationURL": "pt-saf/propertySearchTemp"
-		 
-      },
+         "navigationURL": "pt-saf/propertySearchTemp",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
+       },
       {
          "id": 3080,
          "name": "Remission",
@@ -14679,12 +14679,14 @@
          "url": "url",
          "displayName": "Mutation Details",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.Mutation.Mutation Details",
-         "navigationURL": "property-tax/mutation-details"
+         "navigationURL": "property-tax/mutation-details",
+        "leftIcon": "social:group-add",
+        "rightIcon": ""
 		 
       },
       {
@@ -14805,12 +14807,14 @@
          "url": "url",
          "displayName": "Search Assessee",
          "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "PT",
+        "code": "null",
          "path": "Property Tax.Mutation.Search Assessee",
-         "navigationURL": "property-tax/mutation-search-assessee"
+         "navigationURL": "property-tax/mutation-search-assessee",
+        "leftIcon": "social:group-add",
+        "rightIcon": ""
 		 
       }
    ]
