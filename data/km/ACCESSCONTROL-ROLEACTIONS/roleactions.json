@@ -25890,18 +25890,6 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 4026,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 4026,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
       "actionid": 4027,
       "actioncode": "",
       "tenantId": "km"
@@ -25912,44 +25900,7 @@
       "actioncode": "",
       "tenantId": "km"
     },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4029,
-      "actioncode": "",
-      "tenantId": "km"
-    },	
-		
-	{
-      "rolecode": "SUPERUSER",
-      "actionid": 4030,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4031,
-      "actioncode": "",
-      "tenantId": "km"
-    },
 
-	{
-      "rolecode": "SUPERUSER",
-      "actionid": 4032,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4033,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 4034,
-      "actioncode": "",
-      "tenantId": "km"
-    },
     {
       "rolecode": "CITIZEN",
       "actionid": 4035,

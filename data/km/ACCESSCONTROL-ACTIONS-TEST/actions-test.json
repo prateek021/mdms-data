@@ -13497,20 +13497,6 @@
     
    },
 	   
-   {
-         "id": 3042,
-         "name": "Asessee Update",
-         "url": "url",
-         "displayName": "Asessee Update",
-         "orderNumber": 6,
-         "parentModule": "propertytax",
-         "enabled": true,
-         "serviceCode": "PT",
-         "code": "null",
-         "path": "Property Tax.Assessee Manitenance.Asessee Update",
-         "navigationURL": "pt-mutation/propertySearch"
-		 
-      },
       {
          "id": 3043,
          "name": "Asessee Search",
@@ -13587,7 +13573,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA Accept Object Inspector Changes",
-         "navigationURL": "mdms/PropertyTax/UAA/UAAAcceptObjectInspectorChanges"
+         "navigationURL": "mdms/PropertyTax/UAA/UAAAcceptObjectInspectorChanges",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13601,7 +13589,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA Mobile/ID Updation for Suo-Moto SAF",
-         "navigationURL": "mdms/PropertyTax/UAA/UAAMobile/IDUpdationForSuoMotoSAF"
+         "navigationURL": "mdms/PropertyTax/UAA/UAAMobile/IDUpdationForSuoMotoSAF",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13615,7 +13605,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA SAF FS Bill Generation",
-         "navigationURL": "mdms/PropertyTax/UAA/UAASAFFSBillGeneration"
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFFSBillGeneration",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13629,7 +13621,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA SAF Reversal",
-         "navigationURL": "mdms/PropertyTax/UAA/UAASAFReversal"
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFReversal",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13643,7 +13637,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.UAA.UAA SAF Cancellation",
-         "navigationURL": "mdms/PropertyTax/UAA/UAASAFCancellation"
+         "navigationURL": "mdms/PropertyTax/UAA/UAASAFCancellation",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13657,7 +13653,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Inspector Subcharge",
-         "navigationURL": "mdms/PropertyTax/Inspection/InspectorSubcharge"
+         "navigationURL": "mdms/PropertyTax/Inspection/InspectorSubcharge",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13671,7 +13669,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Send notice to Assessee",
-         "navigationURL": "mdms/PropertyTax/Inspection/SendNoticeToAssessee"
+         "navigationURL": "mdms/PropertyTax/Inspection/SendNoticeToAssessee",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13699,7 +13699,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Search Proposed AV",
-         "navigationURL": "pt-mutation/propertySearch"
+         "navigationURL": "pt-mutation/propertySearch",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13713,7 +13715,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.Tax Inspector and Ward Mapping",
-         "navigationURL": "mdms/PropertyTax/Inspection/TaxInspectorAndWardMapping"
+         "navigationURL": "mdms/PropertyTax/Inspection/TaxInspectorAndWardMapping",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13727,7 +13731,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Entry",
-         "navigationURL": "property-tax/hearing"
+         "navigationURL": "property-tax/hearing",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13741,7 +13747,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Search",
-         "navigationURL": "pt-hearing/hearingNoticeSearch"
+         "navigationURL": "pt-hearing/hearingNoticeSearch",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13755,7 +13763,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Hearing Notice Cancellation",
-         "navigationURL": "property-tax/hearing-notice-cancellation"
+         "navigationURL": "property-tax/hearing-notice-cancellation",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13769,7 +13779,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card",
-         "navigationURL": "property-tax/ratecard"
+         "navigationURL": "property-tax/ratecard",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13783,7 +13795,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card Cancellation",
-         "navigationURL": "property-tax/ratecard-cancellation"
+         "navigationURL": "property-tax/ratecard-cancellation",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13797,7 +13811,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.FS Bill",
-         "navigationURL": "property-tax/fsbill"
+         "navigationURL": "property-tax/fsbill",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13811,7 +13827,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.FS Bill Cancellation",
-         "navigationURL": "mdms/PropertyTax/Hearing/FSBillCancellation"
+         "navigationURL": "mdms/PropertyTax/Hearing/FSBillCancellation",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13825,7 +13843,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Rate Card Reprint",
-         "navigationURL": "mdms/PropertyTax/Hearing/RateCardReprint"
+         "navigationURL": "mdms/PropertyTax/Hearing/RateCardReprint",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13839,7 +13859,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.FS Bill Reprint",
-         "navigationURL": "mdms/PropertyTax/Demand/FSBillReprint"
+         "navigationURL": "mdms/PropertyTax/Demand/FSBillReprint",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13853,7 +13875,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Case Entry",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13867,7 +13891,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Case Search",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13881,7 +13907,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Inspection Sheet Entry",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13895,7 +13923,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Awaiting Approval Search",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13909,7 +13939,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Liability Transfer",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -13923,7 +13955,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Cancel Mutation",
-         "navigationURL": ""
+         "navigationURL": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
 	  {
@@ -13935,7 +13969,9 @@
          "enabled": false,
          "serviceCode": "property-services",
          "code": "null",
-         "path": ""
+         "path": "",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
       },
 	  {
          "id": 3072,
@@ -14003,7 +14039,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Hearing.Approval Slip Print",
-         "navigationURL": "pt-hearing/approvalSlipPrint"
+         "navigationURL": "pt-hearing/approvalSlipPrint",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14017,7 +14055,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Inspection.GR/IR Inspection",
-         "navigationURL": "property-tax/CapturedProposedAV"
+         "navigationURL": "property-tax/CapturedProposedAV",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14034,6 +14074,7 @@
          "navigationURL": "property-tax/response-capture",
          "leftIcon": "social:group-add",
          "rightIcon": ""
+         
 		 
       },
       {
@@ -14628,7 +14669,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.Demand Details",
-         "navigationURL": "property-tax/demands-details"
+         "navigationURL": "property-tax/demands-details",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14642,7 +14685,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.Current Demand Details",
-         "navigationURL": "property-tax/current-demand"
+         "navigationURL": "property-tax/current-demand",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14656,7 +14701,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Demand.Outstanding Details",
-         "navigationURL": "property-tax/outstanding-demand"
+         "navigationURL": "property-tax/outstanding-demand",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14670,7 +14717,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Temporary Case Search",
-         "navigationURL": "property-tax/mutation-tempcase-search"
+         "navigationURL": "property-tax/mutation-tempcase-search",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14680,7 +14729,7 @@
          "displayName": "Mutation Details",
          "orderNumber": 6,
         "parentModule": "",
-        "enabled": true,
+        "enabled": false,
         "serviceCode": "PT",
         "code": "null",
          "path": "Property Tax.Mutation.Mutation Details",
@@ -14700,7 +14749,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.One-Day Muation Search",
-         "navigationURL": "property-tax/mutation-oneday-new"
+         "navigationURL": "property-tax/mutation-oneday-new",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14714,7 +14765,9 @@
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.One-Day Muation Modify",
-         "navigationURL": "property-tax/mutation-oneday-modify"
+         "navigationURL": "property-tax/mutation-oneday-modify",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14724,11 +14777,13 @@
          "displayName": "One-Day Muation Status",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.One-Day Muation Status",
-         "navigationURL": "property-tax/mutation-oneday-status"
+         "navigationURL": "property-tax/mutation-oneday-status",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14738,11 +14793,13 @@
          "displayName": "One-Day deatils",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.One-Day deatils",
-         "navigationURL": "property-tax/mutation-oneday-form"
+         "navigationURL": "property-tax/mutation-oneday-form",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14752,11 +14809,13 @@
          "displayName": "Mutation Transfer",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Mutation Transfer",
-         "navigationURL": "property-tax/mutation-transfer"
+         "navigationURL": "property-tax/mutation-transfer",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14766,11 +14825,13 @@
          "displayName": "Mutation Type Change",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Mutation Type Change",
-         "navigationURL": "property-tax/mutation-type-change"
+         "navigationURL": "property-tax/mutation-type-change",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14780,11 +14841,13 @@
          "displayName": "Mutation Separation",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Mutation Separation",
-         "navigationURL": "property-tax/mutation-separation"
+         "navigationURL": "property-tax/mutation-separation",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
@@ -14794,11 +14857,13 @@
          "displayName": "Mutation Apportionment",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.Mutation.Mutation Apportionment",
-         "navigationURL": "property-tax/mutation-apportionment"
+         "navigationURL": "property-tax/mutation-apportionment",
+         "leftIcon": "social:group-add",
+         "rightIcon": ""
 		 
       },
       {
