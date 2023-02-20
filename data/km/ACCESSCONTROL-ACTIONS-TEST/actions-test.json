@@ -14881,6 +14881,56 @@
         "leftIcon": "social:group-add",
         "rightIcon": ""
 		 
+      },
+	  {
+         "id": 4036,
+         "name": "RainmakerPgrDbSearch",
+         "url": "/rainmaker-pgr/v1/requests/db/_search",
+         "displayName": "Rainmaker Pgr Db Search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "rainmaker pgr",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 4037,
+         "name": "RainmakerPgrDbCount",
+         "url": "/rainmaker-pgr/v1/requests/db/_count",
+         "displayName": "Rainmaker Pgr Db Count",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "rainmaker pgr",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 4038,
+         "name": "RainmakerPgrDashSearch",
+         "url": "/rainmaker-pgr/v1/requests/dash/_search",
+         "displayName": "Rainmaker Pgr Dash Search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "rainmaker pgr",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 4039,
+         "name": "Annual Confidential Report",
+         "url": "url",
+         "displayName": "Annual Confidential Report",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "Annual Confidential Report",
+         "code": "null",
+         "navigationURL": "/acr-ui",
+         "path": "Annual Confidential Report",
+         "leftIcon": "social:people"
       }
    ]
 }
