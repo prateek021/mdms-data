@@ -25906,6 +25906,36 @@
       "actionid": 4035,
       "actioncode": "",
       "tenantId": "km"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 4036,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 4037,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "CSR",
+      "actionid": 4038,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4039,
+      "actioncode": "",
+      "tenantId": "km"
+    },	
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 4039,
+      "actioncode": "",
+      "tenantId": "km"
     }
   ]
 }
