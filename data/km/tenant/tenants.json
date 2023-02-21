@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenants": [
     	{
-      "code": "km.kolkata",
+      "code": "km",
       "name": "Kolkata",
       "description": "Kolkata",
       "pincode": [700001,700002,700003,700004,700005],
