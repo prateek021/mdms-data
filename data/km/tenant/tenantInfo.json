@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "km",
+      "code": "km.kolkata",
       "districtCode": "kolkata",
       "population": "156716",
       "malePopulation": "82045",
