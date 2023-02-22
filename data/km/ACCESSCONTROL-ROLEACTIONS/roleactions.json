@@ -11007,41 +11007,23 @@
       "tenantId": "km"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "PDL",
       "actionid": 1731,
       "actioncode": "",
       "tenantId": "km"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "PDL",
       "actionid": 1732,
       "actioncode": "",
       "tenantId": "km"
     },
     {
-      "rolecode": "SUPERUSER",
+      "rolecode": "PDL",
       "actionid": 1733,
       "actioncode": "",
       "tenantId": "km"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 1731,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 1732,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EGF_MASTER_ADMIN",
-      "actionid": 1733,
-      "actioncode": "",
-      "tenantId": "km"
-    },
+    },   
     {
       "rolecode": "SUPERUSER",
       "actionid": 1734,
@@ -25642,37 +25624,19 @@
       "tenantId": "km"
     },
     {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PDL",
       "actionid": 3098,
       "actioncode": "",
       "tenantId": "km"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 3098,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EMPLOYEE",
+      "rolecode": "PDL",
       "actionid": 3099,
       "actioncode": "",
       "tenantId": "km"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 3099,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4000,
-      "actioncode": "",
-      "tenantId": "km"
-    },
-    {
-      "rolecode": "SUPERUSER",
+      "rolecode": "PDL",
       "actionid": 4000,
       "actioncode": "",
       "tenantId": "km"
