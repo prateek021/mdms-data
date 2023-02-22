@@ -25900,6 +25900,42 @@
       "actionid": 4039,
       "actioncode": "",
       "tenantId": "km"
-    }
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3098,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 3099,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4000,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 1731,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1732,
+      "actioncode": "",
+      "tenantId": "km"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1733,
+      "actioncode": "",
+      "tenantId": "km"
+    }	  
   ]
 }
