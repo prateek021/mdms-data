@@ -656,6 +656,11 @@
       "code": "PT_TEST_INSPECTOR",
       "name": "PT Test Inspector",
       "description": "Property Test Inspector"
-    }
+    },
+    {
+      "code": "PDL",
+      "name": "PDL",
+      "description": "Role for PDL"
+    }	  
   ]
 }
